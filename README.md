@@ -17,12 +17,6 @@ Just the Class is a GitHub Pages template developed for the purpose of quickly d
 - a [syllabus](syllabus.md) page,
 - and a weekly [schedule](schedule.md).
 
-Course features:
-
-- automatic [navigation structure](https://just-the-docs.github.io/just-the-docs/docs/navigation/),
-- instant, full-text [search](https://just-the-docs.github.io/just-the-docs/docs/search/) and page indexing,
-- and a set of [UI components](https://just-the-docs.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://just-the-docs.github.io/just-the-docs/docs/utilities).
-
 ## Getting Started
 
 Getting started is simple…
