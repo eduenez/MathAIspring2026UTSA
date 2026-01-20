@@ -65,7 +65,7 @@ Email to
 ### About Me & My Teaching Philosophy
 
 I am Dr. Eduardo Dueñez, associate professor of mathematics at UTSA. 
-You can learn more about my academic trajectory and my teaching at [my shortbio](duenez_shortbio.md).
+You can learn more about my academic trajectory and my teaching at [my shortbio](about_me.md).
 
 ## Course materials
 
