@@ -80,7 +80,7 @@ and [computational aspects of random
 matrices](https://www.dropbox.com/s/n7urupevqsv2363/QuatRMtalk.pdf?raw=1).
 I particularly like teaching [foundations of math and
 analysis](https://cocalc.com/share/94fad72809369ac50d800e9a7704d378acb44c46/repos/foundations/Duenez-Tavernini-NotesFoundationsMathAnalysis.pdf?raw=1)
-since they fall right within my research interests, but I enjoy teaching
+as they are closest to my current research, but I enjoy teaching
 a broad spectrum of courses, from undergraduate courses like calculus,
 linear algebra and foundations of mathematics, to graduate courses in
 analysis and number theory. I look forward to teaching courses in our
