@@ -6,7 +6,6 @@ description: >-
 nav_order: 1
 ---
 
-
 # Syllabus
 {:.no_toc}
 
@@ -249,27 +248,33 @@ syllabus.
   5/4          ---         Library implementations. Experiments.
   5/11                     Final papers due. Final presentations.
 
+## Department Policies & Resources
+### Ombudsperson
+
+The ombudsperson is an advocate who investigates complaints about a specific section or instructor and attempts to resolve them through mediation. Comments or complaints sent to this person will be brought to the attention of department leadership, who will follow up. If you have questions about the logistics of your class, please contact the instructor.
+
+Contact Ilse Rosales Martinez at [ilse.rosalesmartinez@utsa.edu](mailto:ilse.rosalesmartinez@utsa.edu).
+
 ## Essential Student Information
 
-Important: Bookmark and visit the Common Syllabus Information webpage to
-find important and valuable resources about counseling services,
-transitory/minor medical issues, supplemental instruction, tutoring
-services, academic success coaching, sexual harassment and sexual
-misconduct, campus safety and emergency preparedness, and the Roadrunner
-Creed. For technical requirements, support, and resources, visit
-Academic Innovation\'s Student Technical Support page. UTSA provides
-reasonable accommodations to students via Student Disability Services.
-For more details on eligibility, policies, and requirements, please
-visit www.utsa.edu/disability or call (210) 458-4157. Students at UTSA
-are responsible for ensuring their work is consistent with UTSA's
-standards for academic integrity. Students should review Section 203 of
-the UTSA Student Code of Conduct for appropriate standards of academic
-integrity. UTSA provides numerous services for students from counseling
-to tutoring to a food pantry. Visit Student Affairs Programs and
-Services and Student Success for more information. Visit the UTSA
-Libraries and Museums site for access to journals, research tutorials,
-and tech gear you can borrow and to find your department's librarian.
-Enroll in the Roadrunner Success Playbook, an open enrollment,
-self-paced, online hub in Canvas tailored to ensure you have the
-resources you need to excel at UTSA. Follow Digital Learning Netiquette
-standards for your online communication activities.
+ - **Important:** Bookmark and visit the [Common Syllabus Information webpage](https://provost.utsa.edu/syllabus.html) to find important and valuable resources about counseling services, transitory/minor medical issues, supplemental instruction, tutoring services, academic success coaching, sexual harassment and sexual misconduct, campus safety and emergency preparedness, and the Roadrunner Creed. 
+
+ - For technical requirements, support, and resources, visit [Academic Innovation's Student Technical Support page](https://odl.utsa.edu/support/technical-support/).
+
+ - UT San Antonio provides reasonable accommodations to students via [Student Disability Services](http://www.utsa.edu/disability). For more details on eligibility, policies, and requirements, please visit [www.utsa.edu/disability](http://www.utsa.edu/disability) or call (210) 458-4157. 
+
+ - Your well-being is important. In addition to academic growth, life as a student can include many emotional experiences and opportunities. Being mindful of your own needs and available support can provide you with the tools to successfully navigate these experiences. Student support for well-being, including [24/7 mental health services](https://www.utsa.edu/students/wellbeing/assistance/), can be accessed from the [Well-being at UT San Antonio](https://www.utsa.edu/students/wellbeing/) site for students. If needed, we can schedule a meeting, and I can connect you to resources. You are not alone; I am available to help you find resources that might best meet your needs.
+
+ - [Student Assistance Services (SAS)](https://www.utsa.edu/students/advocacy/assistance/) is available to help you navigate academic and personal challenges. Campus Advocates in SAS are a central point of contact for students seeking clarity on university processes and policies. They also provide a direct connection to helpful resources and advocacy rooted in care. Campus Advocates offer confidential support and personalized guidance to help students succeed.
+
+ - The [Roadrunner Pantry](https://www.utsa.edu/students/advocacy/pantry/) is here to help UT San Antonio students stay healthy and focused by providing free access to groceries, toiletries, and other essentials. With locations at the Main and Downtown campuses, the pantry is organized like a small store and offers items such as canned goods, snacks, and hygiene products. Students with a valid UTSA ID can visit the pantry to pick up what they need. Our goal is to ensure every Roadrunner feels supported and has the resources to succeed. If you’re ever short on food or supplies, the Roadrunner Pantry is a welcoming space you can count on.
+
+ - Students at UT San Antonio are responsible for ensuring their work is consistent with UT San Antonio’s standards for academic integrity. Students should review [Section 203 of the UT San Antonio Student Code of Conduct](https://catalog.utsa.edu/policies/administrativepoliciesandprocedures/studentcodeofconduct/) for appropriate standards of academic integrity. 
+
+ - UT San Antonio provides numerous services for students from counseling to tutoring to a food pantry. Visit [Student Affairs Programs and Services](https://www.utsa.edu/students/programs-and-services/) and [Student Success](https://www.utsa.edu/studentsuccess/) for more information. 
+
+ - Visit the [UT San Antonio Libraries and Museums](https://lib.utsa.edu/) site for access to journals, research tutorials, and tech gear you can borrow and to find your department’s librarian. 
+
+ - Enroll in the [Roadrunner Success Playbook](https://utsa.pdx.catalog.canvaslms.com/browse/academic-innovation/tldt/courses/roadrunner-success-playbook), an open-enrollment, self-paced, online hub in Canvas tailored to ensure you have the resources you need to excel at UT San Antonio. 
+
+ - Follow [Digital Learning Netiquette](https://spark.adobe.com/page/OFHH8MN6dW9KF/) standards for your online communication activities. 
