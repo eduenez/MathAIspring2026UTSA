@@ -1,8 +1,9 @@
 ---
-title: Week 0 Announcement
+title: Week 0 Announcements
 week: 0
-date: 2019-04-01
+date: 2026-01-01
 ---
 
-Hello world!
+Welcome to Mathematical Foundations of AI!
 {: .fs-5 }
+

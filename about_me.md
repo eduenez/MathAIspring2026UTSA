@@ -6,8 +6,6 @@ description: Mini-Bio of Dr. Eduardo Dueñez
 nav_order: 6
 ---
 
-![](assets/images/duenez.jpg){width="1.15625in" height="1.6770833333333333in"}
-
 # Mini-Bio of Prof. Eduardo Dueñez
 
 I was born and grew up in Guadalajara, Mexico. I always enjoyed math,
