@@ -4,6 +4,7 @@ title: Python resources
 description: >-
     Python resources
 nav_fold: true
+nav_order: 5
 ---
 
 # Python resources

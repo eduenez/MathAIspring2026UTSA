@@ -4,6 +4,7 @@ title: AI books
 description: >-
     AI books
 nav_fold: true
+nav_order: 1
 ---
 
 # AI books
