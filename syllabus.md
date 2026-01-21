@@ -11,7 +11,7 @@ nav_order: 1
 
 [Link to Syllabus PDF](https://www.dropbox.com/scl/fi/5aey1kfykvtlbkcrw8sua/2026_1_MAT4953_MAT6973_MathFoundAI.pdf?rlkey=tsliug8bqhbihnqjrki5ukgxv&raw=1)
 
-## Table of contents
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -19,24 +19,39 @@ nav_order: 1
 
 ---
 
-## Catalog entry
+## Course Information
 
-### MAT 4353/MAT 6973 Mathematical Foundations of A.I.
+### Catalog Entry
+
+#### MAT 4353/MAT 6973 Mathematical Foundations of A.I.
 
 Vectors, matrices and tensors; discrete and continuous probability; random variables and expectation; elements of information theory; basic methods for probabilistic learning (maximum likelihood, Bayesian statistics); supervised and unsupervised learning algorithms; neural networks: feedforward, convolutional, recurrent/recursive; loss functions and gradient-based learning; optimization and regularization methods; algorithm implementations; testing on real-world datasets.
 
-#### Prerequisites
+### Prerequisites
 MAT 2233 Linear Algebra, or MAT 2253 Applied Linear Algebra;
 STA3513 Probability and Statistics; MAT 2213 Calculus 3;
 CS 1063 Introduction to Computer Programming, or CS 1083 Programming I for Computer Scientists.
 
-#### Credit Hours
+### Credit Hours
 3
 
-#### Course Modality
+### Course Modality
 Traditional in-person.
 
-## Learning objectives
+### Class Meetings Schedule
+#### Duration
+01/21/2025–05/16/2025.
+
+#### Campus
+Main Campus.
+
+#### Location
+MH 3.02.32
+
+#### Time(s)
+MW 6:00–7:15 PM.
+
+## Learning Objectives
  - Describe a variety of machine learning tasks and explain their appropriate stochastic/probabilistic context.
  - Define and give examples of neural networks and architectures (feedforward, convolutional, recurrent), as well as their implementation as code libraries.
  - Explain the differences between supervised and unsupervised learning, and between generative and non-generative tasks.
@@ -45,10 +60,11 @@ Traditional in-person.
  - Design and train neural networks with a specified architecture (feedforward or convolutional) to carry out classification tasks (e.g., MNIST digit database).
  - Communicate technical ideas clearly, precisely and concisely verbally and in writing.
 
-## Communicate with Me
+## About the Instructor
 
-### Instructor Name
-Eduardo Dueñez
+### About Me & My Teaching Philosophy
+I am Dr. Eduardo Dueñez, associate professor of mathematics.
+You can learn more about my academic trajectory and my teaching in [my shortbio](about_me.md).
 
 ### Department
 Mathematics
@@ -63,19 +79,14 @@ MW 5:00–6:00 PM
 Email to
 [eduardo.duenez@utsa.edu](mailto:eduardo.duenez@utsa.edu)
 
-### About Me & My Teaching Philosophy
-
-I am Dr. Eduardo Dueñez, associate professor of mathematics at UTSA. 
-You can learn more about my academic trajectory and my teaching at [my shortbio](about_me.md).
-
-## Course materials
+## Course Materials
 
 ### Textbook (required)
 
 Ian Goodfellow, Yoshua Bengio and Aaron Courville. *Deep Learning.* MIT
 Press, 2016. ISBN-13: 978-0262035613 <http://www.deeplearningbook.org>.
 
-### Reference books
+### Reference Books
 
 - Ch. C. Agarwal, *\"Neural Networks and Deep Learning, A Textbook\"*,
   2nd. ed. Springer, 2018. <https://doi.org/10.1007/978-3-031-29642-0>.
@@ -106,14 +117,13 @@ Press, 2016. ISBN-13: 978-0262035613 <http://www.deeplearningbook.org>.
     Cooper <ilse.rosalesmartinez@utsa.edu>, who can assist with an
     investigation and resolution of the matter.
 
-## Assessments and assignments
+## Assessments and Assignments
 
 ### Written assignments
 
-Written assignments will be due every week or two. Submissions should be
-typeset using [`\LaTeX`{=latex}]{.underline} or similar specialized
-software (TeXmacs, LyX). All submissions are to be handed in
-**hardcopy** by the specified deadline; **no extensions**.
+Written assignments will be due every week or two. 
+Submissions should be typeset using LaTeX or similar specialized software (TeXmacs, LyX). 
+All submissions are to be handed in **hardcopy** by the specified deadline; **no extensions**.
 
 Use of AI is allowed in **translating** content produced in some
 format---perhaps handwritten or hand-drawn---to LaTeX; however, AI is
@@ -121,17 +131,17 @@ format---perhaps handwritten or hand-drawn---to LaTeX; however, AI is
 (e.g., solutions, proofs or essays). Read the *Guidelines for the Use of
 Generative Artificial Intelligence* below for more details.
 
-### Midterm oral/class presentations
+### Midterm Oral/Class Presentations
 
 Week of 3/16--3/20.
 
-### Final presentations and final paper due.
+### Final Presentations and Final Paper Due.
 
 Monday 11 May, 5:00--6:50 PM.
 
-## Activities and grading
+## Activities and Grading
 
-### Weight of course activities
+### Weight of Course Activities
 
 - Homework: 50%
 - Midterm presentation: 20%
@@ -141,7 +151,7 @@ Monday 11 May, 5:00--6:50 PM.
 NOTE: Numerical grades of undergraduate students (enrolled in MAT 4953)
 will be multiplied by 1.25 when reporting midterm and final grades.
 
-### Final grade ranks
+### Final Grade Ranks
 
 |                 |                 |                 |               |              |
 |-----------------|-----------------|-----------------|---------------|--------------|
@@ -159,7 +169,7 @@ will be multiplied by 1.25 when reporting midterm and final grades.
 - *No extensions* will be granted (barring specific circumstances
   dictated by University policy).
 
-### Time commitment expectations
+### Time Commitment Expectations
 
 MAT 4953/MAT 6973 is a cross-listed (upper-level
 undergraduate/master\'s) course. The expected *average* time commitment
@@ -190,7 +200,7 @@ students themselves. Any use of AI for purposes not explicitly allowed
 deemed a violation of the Student Code of Conduct and is subject to
 applicable University sanctions.
 
-## Course expectations and policies
+## Course Expectations and Policies
 
 ### Instructor-Initiated Drops
 
@@ -229,7 +239,7 @@ updates will be communicated to the students ahead of time. You are
 responsible for checking Canvas for corrections or updates to the
 syllabus.
 
-## Course schedule
+## Course Schedule
 
 | Week       | Chapters  | Topics                                                              |
 |------------|-----------|---------------------------------------------------------------------|
