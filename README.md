@@ -3,6 +3,7 @@ layout: home
 title: MAT 4953/MAT 6973 Mathematical Foundations of AI
 nav_exclude: true
 permalink: /:path/
+math: mathjax3
 seo:
   type: Course
   name: Mathematical Foundations of AI
@@ -10,21 +11,6 @@ seo:
 
 # Mathematical Foundations of AI
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+Welcome to MAT 4953/MAT 6973 Math Foundations of AI.
 
-- [announcements](announcements.md),
-- a [course calendar](calendar.md),
-- a [syllabus](syllabus.md) page,
-- and a weekly [schedule](schedule.md).
-
-## Getting Started
-
-Getting started is simple…
-
-1. First item
-1. Second item (still numbered 1).
-1. Etc.
-
-### Local development environment
-
-[Test locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+\\[ \exp(2\pi i) = 1. \\]

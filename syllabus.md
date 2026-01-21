@@ -9,6 +9,8 @@ nav_order: 1
 # Syllabus
 {:.no_toc}
 
+[Link to Syllabus PDF](https://www.dropbox.com/scl/fi/5aey1kfykvtlbkcrw8sua/2026_1_MAT4953_MAT6973_MathFoundAI.pdf?rlkey=tsliug8bqhbihnqjrki5ukgxv&raw=1)
+
 ## Table of contents
 {: .no_toc .text-delta }
 
@@ -228,25 +230,25 @@ syllabus.
 
 ## Course schedule
 
-  Week         Chapters    Topics
-  ------------ ----------- ---------------------------------------------------------------------
-  1/20--1/23   ---         Syllabus and general overview.
-  1/26-1/30    1           Hands-on introduction to AI (experiments with code and datasets).
-  2/2-2/6      2           Review of linear algebra. Tensors. Introduction to NumPy.
-  2/9--2/13    3           Probability, random variables and information.
-  2/16--2/20   4           Review of vector calculus and Newton/Lagrange/KKT methods.
-  2/23--2/27   5.1--5.4    ML basics: Tasks, capacity, fitting, error, NFL, bias.
-  3/2--3/6     5.5--5.6    Max likelihood, Bayesian/MAP parameter estimation.
-  3/9--3/13    ---         Spring break.
-  3/16--3/20   ---         Midterm presentations.
-  3/23--3/27   5.7--5.11   (Un)supervised learning. SGD. Curse of dimensionality.
-  3/30--4/3    6.1         Feedforward networks. Implementation as Python libraries.
-  4/6--4/10    6.2--6.4    Hidden/output units. Loss functions. Architecture and universality.
-  4/13--4/17   6.5         Backpropagation and automatic differentiation.
-  4/20--4/24   9--10       Other architectures: convolutional and recurrent networks.
-  4/27--5/1    14          Generative networks: variational autoencoders and transformers.
-  5/4          ---         Library implementations. Experiments.
-  5/11                     Final papers due. Final presentations.
+| Week       | Chapters  | Topics                                                              |
+|------------|-----------|---------------------------------------------------------------------|
+| 1/20--1/23 | ---       | Syllabus and general overview.                                      |
+| 1/26-1/30  | 1         | Hands-on introduction to AI (experiments with code and datasets).   |
+| 2/2-2/6    | 2         | Review of linear algebra. Tensors. Introduction to NumPy.           |
+| 2/9--2/13  | 3         | Probability, random variables and information.                      |
+| 2/16--2/20 | 4         | Review of vector calculus and Newton/Lagrange/KKT methods.          |
+| 2/23--2/27 | 5.1--5.4  | ML basics: Tasks, capacity, fitting, error, NFL, bias.              |
+| 3/2--3/6   | 5.5--5.6  | Max likelihood, Bayesian/MAP parameter estimation.                  |
+| 3/9--3/13  | ---       | Spring break.                                                       |
+| 3/16--3/20 | ---       | Midterm presentations.                                              |
+| 3/23--3/27 | 5.7--5.11 | (Un)supervised learning. SGD. Curse of dimensionality.              |
+| 3/30--4/3  | 6.1       | Feedforward networks. Implementation as Python libraries.           |
+| 4/6--4/10  | 6.2--6.4  | Hidden/output units. Loss functions. Architecture and universality. |
+| 4/13--4/17 | 6.5       | Backpropagation and automatic differentiation.                      |
+| 4/20--4/24 | 9--10     | Other architectures: convolutional and recurrent networks.          |
+| 4/27--5/1  | 14        | Generative networks: variational autoencoders and transformers.     |
+| 5/4        | ---       | Library implementations. Experiments.                               |
+| 5/11       |           | Final papers due. Final presentations.                              |
 
 ## Department Policies & Resources
 ### Ombudsperson
