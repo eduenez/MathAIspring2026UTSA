@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: MAT 4953/6973 Math Found AI
 tagline: A special topics course at the University of Texas at San Antonio
-description: A special introductory course on the theory of AI (UTSA, Spring 2026)
+description: A special introductory course to the theory of AI (UTSA, Spring 2026)
 author: Eduardo Dueñez
 baseurl: '/MathAIspring2026UTSA' # the subpath of your site, e.g. /blog
 url: 'https://eduenez.github.io' # the base hostname & protocol for your site, e.g. http://example.com
@@ -43,6 +43,14 @@ collections:
   modules:
   schedules:
   announcements:
+  refdocs:
+    permalink: ":collection/:path"
+    output: true
+
+just_the_docs:
+  collections:
+    refdocs:
+      name: Reference documents
 # Default layouts for each collection type
 defaults:
   - scope:

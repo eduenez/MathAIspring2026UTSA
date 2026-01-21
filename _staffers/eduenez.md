@@ -10,3 +10,5 @@ meta:
 ---
 
 <!-- [Schedule an appointment](#){: .btn .btn-outline } -->
+
+Read more about my [background and teaching philosophy]({{ site.baseurl }}{% link about_me.md %}).

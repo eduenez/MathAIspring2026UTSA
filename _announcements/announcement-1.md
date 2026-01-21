@@ -1,0 +1,8 @@
+---
+title: Welcome!
+week: 1
+date: 2026-01-20
+---
+
+Welcome to MAT 4953/MAT 6973 Math Foundations of AI.
+Be sure to read the [course syllabus]({{ site.baseurl }}{% link syllabus.md %}) and periodically look at the [calendar]({{ site.baseurl }}{% link calendar.md %}).

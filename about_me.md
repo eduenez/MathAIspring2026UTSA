@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-nav_exclude: false
+nav_exclude: true
 description: Mini-Bio of Dr. Eduardo Dueñez
 nav_order: 6
 ---
