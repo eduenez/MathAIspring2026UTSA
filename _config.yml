@@ -38,6 +38,7 @@ aux_links:
 footer_content:
 
 # Collections for website data
+collections_dir: collections
 collections:
   staffers:
   modules:
