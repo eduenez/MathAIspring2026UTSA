@@ -3,7 +3,7 @@ layout: page
 title: Syllabus
 description: >-
     Course syllabus.
-nav_order: 1
+nav_order: 10
 ---
 
 # Syllabus

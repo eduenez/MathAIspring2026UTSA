@@ -2,7 +2,7 @@
 layout: page
 title: Contact me
 description: Contact information of all the course staff members.
-nav_order: 5
+nav_order: 50
 ---
 
 

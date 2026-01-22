@@ -3,7 +3,7 @@ layout: page
 title: Announcements
 nav_exclude: false
 description: A feed containing all of the class announcements.
-nav_order: 2
+nav_order: 20
 ---
 
 # Announcements

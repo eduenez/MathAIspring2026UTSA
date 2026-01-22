@@ -4,7 +4,7 @@ title: (La)TeX-et-al.
 description: >-
     (La)TeX-et-at.
 nav_fold: true
-nav_order: 10
+nav_order: 100
 ---
 
 # Mathematical Typesetting Resources
