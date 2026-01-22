@@ -29,6 +29,7 @@ math:
 remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
 favicon_ico : "/assets/images/favicon.ico"
+logo: "/assets/images/math_of_ai.png"
 search_enabled: true
 heading_anchors: true
 permalink: pretty
