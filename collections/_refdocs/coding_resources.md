@@ -1,13 +1,15 @@
 ---
 layout: page
-title: Python resources
+title: Coding resources
 description: >-
-    Python resources
+    Coding resources
 nav_fold: true
 nav_order: 30
 ---
 
-# Python resources
+# Coding resources
+
+## Python
 
  - [Python.org—home of all things Python](https://www.python.org/)
  - [Programming with Mosh (YouTube Python course)](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
@@ -17,3 +19,4 @@ nav_order: 30
  - [Google's Python Class](https://developers.google.com/edu/python/)
  - [List of More Free Online Python Courses and Tutorials](https://www.freecodecamp.org/news/learn-python-free-python-courses-for-beginners/)
  - [Python Crash Course Cheat Sheets](https://ehmatthes.github.io/pcc/cheatsheets/README.html)
+
