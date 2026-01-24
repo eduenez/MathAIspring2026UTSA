@@ -10,7 +10,7 @@ nav_order: 10
 
 You should use *technical typesetting software*.
 The standard software is LaTeX;
-I have written an [Introductory Guide to Typesetting Mathematics]({{ site.baseurl }}{% link _refdocs/typesetting/typesetting_math.md %}) to help preparing your written work. 
+I have written a [Guide to Typesetting Mathematics]({{ site.baseurl }}{% link _refdocs/typesetting/typesetting_math.md %}) to help preparing your written work. 
 <!-- (In upper-level courses, submission of typeset written is be required.) -->
 
 Per the [syllabus]({{ site.baseurl }}{% link syllabus.md %}), it is *strictly forbidden to use any AI assistance* (including LLMs) in generating the content proper of any work submitted for a grade;
