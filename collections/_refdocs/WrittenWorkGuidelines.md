@@ -9,7 +9,8 @@ nav_order: 10
 # Guidelines for written work in this class
 
 You should use *technical typesetting software*.
-I have written an [Introductory Guide to Typesetting Mathematics](https://docs.google.com/document/d/e/2PACX-1vSbqQIJQAlig8imHWUZYtbWSsYFFnlYLIhpHGYhq4aCnl8gmzce09DskP23NQ_nEOVquEAPFpESr4jM/pub) to help you prepare written work. 
+The standard software is LaTeX;
+I have written an [Introductory Guide to Typesetting Mathematics]({{ site.baseurl }}{% link _refdocs/typesetting/typesetting_math.md %}) to help preparing your written work. 
 <!-- (In upper-level courses, submission of typeset written is be required.) -->
 
 Per the [syllabus]({{ site.baseurl }}{% link syllabus.md %}), it is *strictly forbidden to use any AI assistance* (including LLMs) in generating the content proper of any work submitted for a grade;

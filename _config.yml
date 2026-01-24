@@ -53,6 +53,7 @@ just_the_docs:
   collections:
     refdocs:
       name: Reference documents
+
 # Default layouts for each collection type
 defaults:
   - scope:
