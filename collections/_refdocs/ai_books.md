@@ -16,13 +16,14 @@ Press, 2016. ISBN-13: 978-0262035613.
 
 ## Supplements to textbook
 
-- Ch. C. Aggarwal, [*Neural Networks and Deep Learning, A Textbook.*](https://doi.org/10.1007/978-3-031-29642-0){:target="_blank"}
+- Ch. C. Aggarwal, *Neural Networks and Deep Learning, A Textbook.*
   2nd. ed. Springer, 2018.
   [UTSA Library Download Link](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/1du13se/cdi_askewsholts_vlebooks_9783031296420){:target="_blank"}.
 - M. P. Deisenroth, A. A. Faisal, Ch. S. Ong, [*Mathematics for Machine
   Learning,*](https://mml-book.github.io/){:target="_blank"} Cambridge University Press, 2020. ISBN: 9781108455145.
 - L. Berlyand, P.-E. Jabin, [*Mathematics of Deep Learning, An
-  Introduction.*](https://doi.org/10.1515/9783111025551-toc){:target="_blank"} Berlin, Boston: De Gruyter, 2023.
+  Introduction to Foundational Mathematics of Neural Nets.*](https://doi.org/10.1515/9783112218211){:target="_blank"} 2nd. ed. Berlin, Boston: De Gruyter, 2026.
+  [*Note:* The UTSA library does not yet have this book in its collection]
 
 ## Other reference books
 - Ch. C. Aggarwal, [*Artificial Intelligence, A Textbook.*](https://link.springer.com/book/10.1007/978-3-030-72357-6){:target="_blank"} Springer, 2021. ISBN 978-3-030-72357-6 (eBook).
