@@ -11,16 +11,20 @@ nav_order: 20
 
 ## Course textbook
 
-- Ian Goodfellow, Yoshua Bengio and Aaron Courville. [*Deep Learning*](http://www.deeplearningbook.org). MIT
+- Ian Goodfellow, Yoshua Bengio and Aaron Courville. [*Deep Learning.*](http://www.deeplearningbook.org){:target="_blank"} MIT
 Press, 2016. ISBN-13: 978-0262035613.
 
 ## Supplements to textbook
 
-- Ch. C. Agarwal, [*Neural Networks and Deep Learning, A Textbook*](https://doi.org/10.1007/978-3-031-29642-0),
+- Ch. C. Aggarwal, [*Neural Networks and Deep Learning, A Textbook.*](https://doi.org/10.1007/978-3-031-29642-0){:target="_blank"}
   2nd. ed. Springer, 2018.
-  (Available for download from the UTSA Library through the SpringerLink
-  database.)
+  [UTSA Library Download Link](https://utsa.primo.exlibrisgroup.com/permalink/01UTXSANT_INST/1du13se/cdi_askewsholts_vlebooks_9783031296420){:target="_blank"}.
 - M. P. Deisenroth, A. A. Faisal, Ch. S. Ong, [*Mathematics for Machine
-  Learning,*](https://mml-book.github.io/) Cambridge University Press, 2020. ISBN: 9781108455145.
+  Learning,*](https://mml-book.github.io/){:target="_blank"} Cambridge University Press, 2020. ISBN: 9781108455145.
 - L. Berlyand, P.-E. Jabin, [*Mathematics of Deep Learning, An
-  Introduction*](  https://doi.org/10.1515/9783111025551-toc). Berlin, Boston: De Gruyter, 2023.
+  Introduction.*](https://doi.org/10.1515/9783111025551-toc){:target="_blank"} Berlin, Boston: De Gruyter, 2023.
+
+## Other reference books
+- Ch. C. Aggarwal, [*Artificial Intelligence, A Textbook.*](https://link.springer.com/book/10.1007/978-3-030-72357-6){:target="_blank"} Springer, 2021. ISBN 978-3-030-72357-6 (eBook).
+[UTSA Library Download Link](https://utsa.primo.exlibrisgroup.com/view/action/uresolver.do?operation=resolveService&package_service_id=40644971290004621&institutionId=4621&customerId=4620&VE=true){:target="_blank"}
+- R. S Sutton, A. G. Barto, [*Reinforcement Learning: An Introduction.*](http://incompleteideas.net/book/the-book-2nd.html){:target="_blank"} 2nd. ed. MIT Press, 2018.
