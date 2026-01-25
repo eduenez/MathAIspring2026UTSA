@@ -29,3 +29,4 @@ Press, 2016. ISBN-13: 978-0262035613.
 - Ch. C. Aggarwal, [*Artificial Intelligence, A Textbook.*](https://link.springer.com/book/10.1007/978-3-030-72357-6){:target="_blank"} Springer, 2021. ISBN 978-3-030-72357-6 (eBook).
 [UTSA Library Download Link](https://utsa.primo.exlibrisgroup.com/view/action/uresolver.do?operation=resolveService&package_service_id=40644971290004621&institutionId=4621&customerId=4620&VE=true){:target="_blank"}
 - R. S Sutton, A. G. Barto, [*Reinforcement Learning: An Introduction.*](http://incompleteideas.net/book/the-book-2nd.html){:target="_blank"} 2nd. ed. MIT Press, 2018.
+- P. Petersen, J. Zech, [*Mathematical Theory of Deep Learning.*](https://arxiv.org/pdf/2407.18384){:target="_blank"}
