@@ -3,6 +3,7 @@ layout: default
 title: Assignments
 nav_exclude: false
 description: A feed of all assignments
+math: mathjax3
 nav_order: 25
 ---
 
