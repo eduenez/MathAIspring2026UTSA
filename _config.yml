@@ -49,10 +49,16 @@ collections:
     permalink: ":collection/:path"
     output: true
 
+  assignments:
+    output: true
+    permalink: ":collection/:path"
+
 just_the_docs:
   collections:
     refdocs:
       name: Reference documents
+    assignments:
+      name: Assignments
 
 # Default layouts for each collection type
 defaults:
@@ -79,6 +85,11 @@ defaults:
       type: announcements
     values:
       layout: announcement
+  # - scope:
+  #     path: ''
+  #     type: assignments
+  #   values:
+  #     layout: assignment
 
 compress_html:
   clippings: all

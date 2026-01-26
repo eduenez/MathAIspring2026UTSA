@@ -1,0 +1,17 @@
+<div class="assignment">
+  <h2>{{ page.title }}</h2>
+    <!-- <div class="assignment-feed-item"> -->
+            {% if page.due_date %}
+                Due: {{ page.due_date | date: '%b %e' }}
+            {% endif %}
+        <h2><a href="{{ assignment.url }}">{{ assignment.title }}</a></h2>
+    <!-- </div> -->
+  <!-- <span class="announcement-meta"> -->
+  <!--   {% if page.date %} -->
+  <!--   {{ page.date | date: '%b %e' }} -->
+  <!--   {% endif %} -->
+  <!-- </span> -->
+  <div>
+    {{ content }}
+  </div>
+</div>
