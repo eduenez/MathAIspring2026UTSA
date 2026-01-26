@@ -50,8 +50,8 @@ collections:
     output: true
 
   assignments:
-    output: true
-    permalink: ":collection/:path"
+    # output: true
+    # permalink: ":collection/:path"
 
 just_the_docs:
   collections:

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Assignments
 nav_exclude: false
 description: A feed containing all of the weekly assignments
