@@ -19,10 +19,18 @@ nav_order: 40
 (Directly relevant to our course.)
 - [Keras](https://keras.io/){:target="_blank"}
 - [JAX](https://github.com/jax-ml/jax){:target="_blank"}
+- [OpenVINO](https://github.com/openvinotoolkit/openvino)
 - [NumPy](https://numpy.org/){:target="_blank"}
 
-# Other Platforms and Low-Level Frameworks
+# Other Platforms and Frameworks
 (Generally not relevant to our course)
+
+## Frameworks
+- [PyTorch](https://pytorch.org/)
+- [TensorFlow](https://www.tensorflow.org/)
 - [OpenXLA](https://openxla.org/)
 - [CUDA](https://developer.nvidia.com/cuda-zone)
+
+## Platforms
+
 - [Google AI Studio](https://aistudio.google.com/)

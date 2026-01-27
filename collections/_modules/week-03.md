@@ -3,7 +3,7 @@ title: 'Week #3: Feb 2–6'
 ---
 
 2/2
-: [Chapter 2](https://www.deeplearningbook.org/contents/linear_algebra.html): Linear algebra. Vectors and tensors
+: [Chapter 2](https://www.deeplearningbook.org/contents/linear_algebra.html){:target="_blank"}: Linear algebra. Vectors and tensors
 
 <!-- Example: Use of colored labels. -->
 <!-- Feb 30 -->
