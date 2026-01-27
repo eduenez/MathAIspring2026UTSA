@@ -43,7 +43,7 @@ collections_dir: collections
 collections:
   staffers:
   modules:
-  schedules:
+  # schedules:
   announcements:
   refdocs:
     permalink: ":collection/:path"
@@ -71,11 +71,11 @@ defaults:
       type: modules
     values:
       layout: module
-  - scope:
-      path: ''
-      type: schedules
-    values:
-      layout: schedule
+  # - scope:
+  #     path: ''
+  #     type: schedules
+  #   values:
+  #     layout: schedule
   - scope:
       path: ''
       type: announcements
