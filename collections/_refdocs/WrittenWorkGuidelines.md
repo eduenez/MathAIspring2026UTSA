@@ -22,13 +22,11 @@ Written work not substantially following the guidelines will be **returned witho
 ## *Required* Reading
 
 - [Mathematics style guidelines and *“What* **Not** *To Do”*,](https://www.dropbox.com/s/2w6tetgratl6id8/How_to_Write_Mathematics_E_Bloch.pdf?raw=1){:target="_blank"}
-  by Prof. Ethan Bloch (Bard College) in his book *“Proofs and Fundamentals”*.
+  by Prof. Ethan Bloch (Bard College) in section §2.6 of his book *“Proofs and Fundamentals”*.
 
 - Read the first section (§1, pp. 1–6) of [*“Mathematical
-Writing”*](https://www.dropbox.com/scl/fi/kd2i1hcmdbtuun1anpbe3/Knuth-Larrabee-Roberts_Mathematical_writing.pdf?rlkey=6bev0edbq8mqjun1tw70kvszv&raw=1){:target="_blank"},
-by Donald Knuth, Tracy Larrabee, and Paul M. Roberts. (Don Knuth,
-creator of the TeX typesetting system, is a pre-eminent computer
-scientist and world leader in technical writing.)
+Writing”*](https://www.dropbox.com/scl/fi/kd2i1hcmdbtuun1anpbe3/Knuth-Larrabee-Roberts_Mathematical_writing.pdf?rlkey=6bev0edbq8mqjun1tw70kvszv&raw=1){:target="_blank"}, by Donald Knuth, Tracy Larrabee, and Paul M. Roberts. 
+  (Don Knuth, creator of the TeX typesetting system, is a pre-eminent computer scientist and world leader in technical writing.)
 
 ## Supplementary Reading
 - The entire document [*“Mathematical
