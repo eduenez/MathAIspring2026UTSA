@@ -9,7 +9,7 @@ nav_order: 10
 # Syllabus
 {:.no_toc}
 
-[Link to Syllabus PDF](https://www.dropbox.com/scl/fi/5aey1kfykvtlbkcrw8sua/2026_1_MAT4953_MAT6973_MathFoundAI.pdf?rlkey=tsliug8bqhbihnqjrki5ukgxv&raw=1)
+[Link to Syllabus PDF](https://www.dropbox.com/scl/fi/5aey1kfykvtlbkcrw8sua/2026_1_MAT4953_MAT6973_MathFoundAI.pdf?rlkey=tsliug8bqhbihnqjrki5ukgxv&raw=1){:target="_blank"}
 
 ## Table of Contents
 {: .no_toc .text-delta }
