@@ -21,16 +21,21 @@ Written work not substantially following the guidelines will be **returned witho
 
 ## *Required* Reading
 
-You should pretty much memorize and religiously apply the advice in
-* [Mathematics style guidelines and *“What* **Not** *To Do”*.](https://www.dropbox.com/s/2w6tetgratl6id8/How_to_Write_Mathematics_E_Bloch.pdf?raw=1){:target="_blank"}
+- [Mathematics style guidelines and *“What* **Not** *To Do”*,](https://www.dropbox.com/s/2w6tetgratl6id8/How_to_Write_Mathematics_E_Bloch.pdf?raw=1){:target="_blank"}
+  by Prof. Ethan Bloch (Bard College) in his book *“Proofs and Fundamentals”*.
 
-(By Prof. Ethan Bloch (Bard College) in his book *“Proofs and Fundamentals”*.)
+- Read the first section (§1, pp. 1–6) of [*“Mathematical
+Writing”*](https://www.dropbox.com/scl/fi/kd2i1hcmdbtuun1anpbe3/Knuth-Larrabee-Roberts_Mathematical_writing.pdf?rlkey=6bev0edbq8mqjun1tw70kvszv&raw=1){:target="_blank"},
+by Donald Knuth, Tracy Larrabee, and Paul M. Roberts. (Don Knuth,
+creator of the TeX typesetting system, is a pre-eminent computer
+scientist and world leader in technical writing.)
 
-## Supplementary Readaing
-* [*“Mathematical Writing”*](https://www.dropbox.com/scl/fi/kd2i1hcmdbtuun1anpbe3/Knuth-Larrabee-Roberts_Mathematical_writing.pdf?rlkey=6bev0edbq8mqjun1tw70kvszv&raw=1){:target="_blank"}, by Donald Knuth, Tracy Larrabee, and Paul M. Roberts. (Don Knuth, creator of the TeX typesetting system, is a pre-eminent computer scientist and world leader in technical writing.)
-The document is over 100 pp. long. Read it —and reread it— little bits at a time.
+## Supplementary Reading
+- The entire document [*“Mathematical
+Writing”*](https://www.dropbox.com/scl/fi/kd2i1hcmdbtuun1anpbe3/Knuth-Larrabee-Roberts_Mathematical_writing.pdf?rlkey=6bev0edbq8mqjun1tw70kvszv&raw=1){:target="_blank"} above has 43 sections (§1–§43) and is over 100 pp. long. 
+  Read —and reread— portions of it little bits at a time.
 
-* [Basic advice on writing mathematics proofs](https://www.dropbox.com/s/g6yznhm6jp9ap5k/Crannell_Advice_on_Writing_Mathematics.pdf?raw=1){:target="_blank"} by Prof. Annalisa Crannell of Franklin & Marshall College.
+- [Basic advice on writing mathematics proofs](https://www.dropbox.com/s/g6yznhm6jp9ap5k/Crannell_Advice_on_Writing_Mathematics.pdf?raw=1){:target="_blank"} by Prof. Annalisa Crannell of Franklin & Marshall College.
   (The advice in this document is very basic, so I recommended it mostly to students taking their very first proof-based course.)
 
 
