@@ -20,3 +20,7 @@ nav_order: 40
  - [List of More Free Online Python Courses and Tutorials](https://www.freecodecamp.org/news/learn-python-free-python-courses-for-beginners/){:target="_blank"}
  - [Python Crash Course Cheat Sheets](https://ehmatthes.github.io/pcc/cheatsheets/README.html){:target="_blank"}
 
+## NumPy
+ - [Introduction to linear algebra on *n*-dimensional arrays](https://numpy.org/numpy-tutorials/tutorial-svd/)
+   Concise introduction to NumPy basics.
+ - [NumPy tutorial at w3schools](https://www.w3schools.com/python/numpy/) Very comprehensive.
