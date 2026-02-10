@@ -7,5 +7,23 @@ Gemfile.lock
 _site/
 node_modules/
 vendor/
+
+## Core latex/pdflatex auxiliary files:
+/code/*.aux
+/code/*.lof
+/code/*.log
+/code/*.lot
+/code/*.fls
+/code/*.out
+/code/*.toc
+/code/*.fmt
+/code/*.fot
+/code/*.cb
+/code/*.cb2
+/code/.*.lb
+
+## Backup files
 *~
+
+## MacOS hidden…
 .DS_Store

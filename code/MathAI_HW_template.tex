@@ -1,0 +1,147 @@
+\documentclass[12pt]{article}
+
+% --- Packages ---
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath, amsfonts, amssymb, amsthm}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{listings}
+\usepackage{xcolor}
+\usepackage{tcolorbox} % For the modern "Problem" boxes
+\usepackage{fancyhdr}  % For headers and footers
+
+% --- Visual Styling ---
+\definecolor{courseblue}{RGB}{0, 51, 102}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=courseblue,
+    urlcolor=blue,
+}
+
+% Code snippet styling
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\lstset{
+    commentstyle=\color{codegreen},
+    keywordstyle=\color{magenta},
+    numberstyle=\tiny\color{codegray},
+    stringstyle=\color{purple},
+    basicstyle=\ttfamily\small,
+    breaklines=true,
+    frame=single,
+    language=Python
+}
+
+% Custom Problem Box
+\newtcolorbox{problem}[1]{
+  colback=blue!5!white,
+  colframe=courseblue,
+  fonttitle=\bfseries,
+  title=Problem #1
+}
+
+% --- Assignment Metadata ---
+\newcommand{\courseName}{Mathematical Foundations of AI}
+\newcommand{\courseURL}{https://eduenez.github.io/MathAIspring2026UTSA}
+\newcommand{\assignmentTitle}{Homework Assignment \#0 (mock/template)}
+\newcommand{\studentName}{Your Name Here} % <--- REPLACE THIS
+
+% --- Header/Footer Setup ---
+\pagestyle{fancy}
+\fancyhf{}
+\lhead{\courseName}
+\rhead{\studentName}
+\cfoot{\thepage}
+
+% --- Document Starts Here ---
+\begin{document}
+
+\begin{center}
+    {\LARGE \textbf{\assignmentTitle}} \\
+    \vspace{5pt}
+    {\large \href{\courseURL}{Course Site @GitHub}} \\
+    \vspace{10pt}
+    \textbf{Student:} \studentName \hfill \textbf{Date:} {30 February 0000}\\
+    \rule{\linewidth}{0.4pt}
+\end{center}
+
+\section*{Part I: Mathematical Theory}
+
+\begin{problem}{1: Linear Algebra \& Matrices}
+  Define eigenvalues and eigenvectors of a matrix.
+  Provide a $2 \times 2$ numerical example. 
+\end{problem}
+
+\begin{proof}[Solution]
+An eigenvalue $\lambda$ (real or complex) and corresponding eigenvector $\mathbf{v}$ of a square matrix $A$ are any solutions to the equation:
+\begin{equation}
+    A\mathbf{v} = \lambda\mathbf{v},
+  \end{equation}
+  where the eigenvector $\mathbf{v} \ne \mathbf{0}$
+  (the eigenvalue $\lambda$ may be zero).
+Example:
+\[
+A = \begin{bmatrix}
+4 & 1 \\
+2 & 3
+\end{bmatrix}
+\]
+has eigenvalue/eigenvector pairs $\lambda_1 = 2$, $\mathbf{v}_1 = (1, -2)$ and $\lambda_2 = 5$, $\mathbf{v}_2 = (1, 1)$.
+\end{proof}
+
+\begin{problem}{2: Probability and Lists}
+List three common probability distributions used in machine learning and state Bayes' Theorem.
+\end{problem}
+
+\begin{proof}[Solution]
+Common distributions include:
+\begin{itemize}
+    \item \textbf{Gaussian (Normal):} The “bell” curve.
+    \item \textbf{Bernoulli:} For binary outcomes (yes/no, true/false, cat/dog).
+    \item \textbf{Multinomial:} For categorical data (probability of observing each category out of a finite list).
+\end{itemize}
+
+Bayes' Theorem states that if $A, B$ are events such that $B$ has probability $\mathbb{P}(B)>0$, then the \emph{a priori} probability $\mathbb{P}(A)$ of the event $A$ and its \emph{a posteriori} conditional probability $\mathbb{P}(A|B)$ (of the conditonal event $A|B$, i.e., the probability that $A$ occurs given that $B$ has already occurred) are related by
+\begin{equation} \label{eq:bayes}
+    \mathbb{P}(A|B) = \frac{\mathbb{P}(A)\cdot\mathbb{P}(B|A)}{\mathbb{P}(B)},
+  \end{equation}
+  where $\mathbb{P}(B|A)$ is the reciprocal conditional probability of observing $B$ when $A$ is observed.
+Equation \ref{eq:bayes} encapsulates the change (update) in beliefs after seeing new evidence.
+\end{proof}
+
+\section*{Part II: Code and Illustrations}
+\begin{problem}{3: Python Implementation}
+Write a simple Python function to calculate the dot product of two lists.
+\end{problem}
+
+\begin{proof}[Solution]
+Below is the implementation of the dot product:
+\begin{lstlisting}[language=Python]
+def dot_product(vec_a, vec_b):
+    """Returns the scalar product of two vectors."""
+    return sum(a * b for a, b in zip(vec_a, vec_b))
+
+# Example usage
+print(dot_product([1, 2], [3, 4])) # Output: 11
+\end{lstlisting}
+\end{proof}
+
+\begin{problem}{4: Figures and Visuals}
+Include a placeholder for a figure and explain its importance.
+\end{problem}
+
+\begin{proof}[Solution]
+Visualization is key for AI. For example, Figure \ref{fig:example} depicts a “loss curve”.
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.5\textwidth]{loss-curve.png}
+    \caption{This is a placeholder for your model architecture or data plot.}
+    \label{fig:example}
+\end{figure}
+\end{proof}
+
+\end{document}
