@@ -13,4 +13,6 @@ seo:
 
 Welcome to MAT 4953/MAT 6973 Math Foundations of AI.
 
-\\[ \exp(2\pi i) = 1. \\]
+Be sure to read the [course syllabus]({{ site.baseurl }}{% link syllabus.md %}) and periodically look at the [calendar]({{ site.baseurl }}{% link calendar.md %}) and the list of [assignments]({{ site.baseurl }}{% link assignments.md %})
+
+<!-- \\[ \exp(2\pi i) = 1. \\] -->
