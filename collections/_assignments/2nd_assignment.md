@@ -4,11 +4,6 @@ ordinal: 2
 due_date: 2026-02-18
 ---
 
-\\[ \exp(2\pi i) = 1. \\]
-
-(*DRAFT:* This is **not yet** the complete assignment!
-This draft is only meant to help you all get a head start.)
-
 ## Warm-up Task
 - (Re)read the [Written Work Guidelines]({{ site.baseurl }}{% link _refdocs/WrittenWorkGuidelines.md %}) and write a short paragraph reflecting on your progress as a technical writer.
 
