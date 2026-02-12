@@ -69,7 +69,7 @@ Although computing the SVD of a very large matrix is quite an expensive operatio
 
 ### Bonus subtask 4 [15 pt.]
 Read about the relation between SVD and PCA (Principal Component Analysis) in section §2.12 of the textbook and (at least one) additional source(s).
-Write a summary —with illustration(s)!— of your findings and spanning about a half-page.
+Write a summary —with illustration(s)!— of your findings and spanning at least a half-page.
 
 <!-- (Recall that Colab allows opening files directly from [Github URLs](https://colab.research.google.com/github/){:target="_blank"}.) -->
 
