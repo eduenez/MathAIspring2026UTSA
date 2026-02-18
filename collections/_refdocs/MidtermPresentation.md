@@ -24,24 +24,24 @@ It is highly recommended (but not required) to discuss your choice of topic with
 
 ## Format of presentation
 
-- The presentation will be oral.
-<!-- I discourage “blackboard-only” presentations unless you have significant experience (e.g., have given several other similar presentations, or maybe you are a seasoned tutor and good explaining in real time). -->
-  - You are encouraged to be creative in bringing concepts alive.
-	Deep learning has copious concepts that all but demand visual explanation:
-    include at least one picture or diagram, show a video (but *very* short —no more than 1 minute long!), or prepare a relevant Colab (with at least an image or two) to include as part of the presentation.
-	A purely blackboard-based presentation is possible, but not particularly encouraged (if you do a blackboard-only presentation, make double-sure that your handout includes figures or diagrams too detailed to fit into the short format).
-  - Your presentation should last *8 to 10 minutes*.
-    - The 10 minutes limit is **absolute**; you should plan and aim for an *8-minute* presentation.
-	  There is *no credit to gain* by exceeding 8 minutes —in fact, it is harder to give a good, short and complete presentation than a longer one (which may affect your credit).
-	- Any presentation exceeding lasting over 10 minutes will be subject to a **10% credit deduction** for *each additional minute* (or fraction) exceeding the hard 10-minute limit.
-	(This is necessitated by the need to fit a dozen presentations into 2 class meetings.)
-  - At the end of your presentation, there will be a 1–to-2 minute (maximum) interval for questions (Q & A) from the audience related to —or perhaps extending— the material presented.
-    You should prepare accordingly!
-    - If your presentation is under 9-minutes long, you will have a full 2 minutes for questions;
-	  if it is over 9 minutes long, the excess will *decrease* your allotted Q & A time.
-	- If no other student has a question, there will be an automatic 10% deduction.
-	  (In this case, the instructor will ask at least 1 question.)
-      It is in your best interest to give a *clear and engaging* presentation that will invite and spur student questions!
+The presentation will be oral.
+- I discourage “blackboard-only” presentations unless you have significant experience (e.g., have given several other similar presentations, or maybe you are a seasoned tutor and good explaining in real time). -->
+- You are encouraged to be creative.
+  Deep learning has copious concepts that visual explanation:
+  include at least one picture or diagram, show a video (but *very* short —no more than 1 minute long!), or prepare a relevant Colab (with at least an image or two) to include as part of the presentation.
+  A purely blackboard-based presentation is possible, but not particularly encouraged (if you do a blackboard-only presentation, make double-sure that your handout includes figures or diagrams too detailed to fit into the short format).
+- Your presentation should last *8 to 10 minutes*.
+  - The 10 minutes limit is **absolute**; you should plan and aim for an *8-minute* presentation.
+    There is *no credit to gain* by exceeding 8 minutes —in fact, it is harder to give a good, short and complete presentation than a longer one (which may affect your credit).
+  - Any presentation exceeding lasting over 10 minutes will be subject to a **10% credit deduction** for *each additional minute* (or fraction) exceeding the hard 10-minute limit.
+  (This is necessitated by the need to fit a dozen presentations into 2 class meetings.)
+- At the end of your presentation, there will be a 1–to-2 minute (maximum) interval for questions (Q & A) from the audience related to —or perhaps extending— the material presented.
+  You should prepare accordingly!
+  - If your presentation is under 9-minutes long, you will have a full 2 minutes for questions;
+    if it is over 9 minutes long, the excess will *decrease* your allotted Q & A time.
+  - If no other student has a question, there will be an automatic 10% deduction.
+    (In this case, the instructor will ask at least 1 question.)
+    It is in your best interest to give a *clear and engaging* presentation that will invite and spur student questions!
 
 ### Accompanying handouts/supplements
 
