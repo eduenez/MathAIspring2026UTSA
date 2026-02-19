@@ -34,19 +34,20 @@ The steps are as follows:
 - Consider first the 2×2 matrix \\(B = A^{\top}A\\).
 	Carry out in full all steps for finding the (positive!) eigenvalues \\(s_1\\), \\(s_2\\) (chosen in the *decreasing* order of magnitude \\(s_1 > s_2\\)) and an orthonormal basis \\(v_1\\), \\(v_2\\) (ONB) of eigenvectors of B —these are the “right eigenvectors” of A.
 
-The eigenvalues  \\(s_1 > s_2\\) of B are the *singular values* of A.
-  
+The eigenvalues \\(s_1 > s_2\\) of B are the *“squared singular values”* of A.
+The *singular values* of A are thus defined as \\(\sigma_1 = \sqrt{s_1}\\) and \\(\sigma_2 = \sqrt{s_2}\\).
+
   The ONB \\(v_1\\), \\(v_2\\) gives (the columns of) an orthogonal 2×2 matrix \\(V\\).
   Verify that \\(V^\top V = I\\).
 - Consider now the 3×3 matrix \\(C = AA^{\top}\\).
   Carry out all steps of finding the eigenvalues and an orthonormal basis \\(u_1\\), \\(u_2\\), \\(u_3\\) (ONB) of eigenvectors for C—these are the “left eigenvectors” of A.
-  Verify that the corresponding eigenvalues should be \\(s_1\\), \\(s_2\\) (which are the *same* singular values of A as above) and the third eigenvalue is \\(0\\).
+  Verify that the corresponding eigenvalues should be \\(s_1\\), \\(s_2\\) (which are the *same* squared singular values of A as above) and the third eigenvalue is \\(0\\).
   The ONB \\(u_1\\), \\(u_2\\), \\(u_3\\) gives (the columns of) an orthogonal matrix \\(U\\).
   Verify that again \\(U^\top U = I\\).
-- Let S be the 3×2 matrix (same size as A) having the singular values \\(s_1\\), \\(s_2\\) on the diagonal.
+- Let S be the 3×2 matrix (same size as A) having the singular values \\(\sigma_1\\), \\(\sigma_2\\) on the diagonal.
  Verify that
  \\[
- s_1(u_1v_1^\top) + s_2(u_2v_2^\top) = A = USV^\top.
+ \sigma_1(u_1v_1^\top) + \sigma_2(u_2v_2^\top) = A = USV^\top.
  \\]
  
 ### Subtask 2 [25 pt.]
