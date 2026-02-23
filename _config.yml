@@ -56,6 +56,10 @@ just_the_docs:
     refdocs:
       name: Reference documents
 
+exclude:
+  - \#*
+  - \#*.*
+
 # Default layouts for each collection type
 defaults:
   - scope:

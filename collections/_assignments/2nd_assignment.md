@@ -25,7 +25,7 @@ Take a “random” 3×2 matrix A of your own choosing meeting the following req
 ### Subtask 1 [50 pt.]
 Run through the entire calculation of finding the Singular Value Decomposition of A.
 
-Your calculations should all be *exact*—not decimal approximations.
+Your calculations should all be *exact* —not decimal approximations.
 Square roots are almost certain to be involved in computing eigenvalues and entries of eigenvectors.
 Do not evaluate those numerically, but *do* simplify the exact expressions as much as possible
 (e.g., although square roots of relatively large integers may appear, at *no* point should you have a square root nested inside another one, etc.)
@@ -44,10 +44,10 @@ The *singular values* of A are thus defined as \\(\sigma_1 = \sqrt{s_1}\\) and \
   Verify that the corresponding eigenvalues should be \\(s_1\\), \\(s_2\\) (which are the *same* squared singular values of A as above) and the third eigenvalue is \\(0\\).
   The ONB \\(u_1\\), \\(u_2\\), \\(u_3\\) gives (the columns of) an orthogonal matrix \\(U\\).
   Verify that again \\(U^\top U = I\\).
-- Let S be the 3×2 matrix (same size as A) having the singular values \\(\sigma_1\\), \\(\sigma_2\\) on the diagonal.
+- Let Σ be the 3×2 matrix (same size as A) having the singular values \\(\sigma_1\\), \\(\sigma_2\\) on the diagonal.
  Verify that
  \\[
- \sigma_1(u_1v_1^\top) + \sigma_2(u_2v_2^\top) = A = USV^\top.
+ \sigma_1(u_1v_1^\top) + \sigma_2(u_2v_2^\top) = A = U\Sigma V^\top.
  \\]
  
 ### Subtask 2 [25 pt.]
@@ -56,8 +56,8 @@ The *singular values* of A are thus defined as \\(\sigma_1 = \sqrt{s_1}\\) and \
    (*Hint:* Use NumPy's function `linalg.svd` as done in [`numpy-tutorial-svd.ipynb`](https://colab.research.google.com/drive/1A5U2jgdtyVQZKHIIpqHub6X-aUqD-7mB?usp=sharing).
    Remember to start with `import numpy as np` so you can subsequently access the function as `np.linalg.svd`.)
 3. Do the matrices U, S, V you found in (i) above answer agree exactly (to within a small rounding error) with the ones found using `linalg.svd`?
-   How many different choices of the matrix triple (U, S, V) are possible, all of which are equally correct as an SVD for A?
-4. [Bonus +5%] Count the possible choices of (U, S, V) for a given matrix A still of rank 2, but having size 4×2.
+   How many different choices of the matrix triple (U, \Sigma, V) are possible, all of which are equally correct as an SVD for A?
+4. [Bonus +5%] Count the possible choices of (U, \Sigma, V) for a given matrix A still of rank 2, but having size 4×2.
    
 ### Subtask 3 [25 pt.]
 1. As in Cell #25 of [`numpy-tutorial-svd.ipynb`](https://colab.research.google.com/drive/1A5U2jgdtyVQZKHIIpqHub6X-aUqD-7mB?usp=sharing), 
