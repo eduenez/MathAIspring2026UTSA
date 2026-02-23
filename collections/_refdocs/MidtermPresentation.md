@@ -8,7 +8,7 @@ Navy_order: 10
 
 # Guidelines for midterm presentation
 
-Presentations will take place on *Monday 23* and *Wednesday 25 March* (right after midterm break).
+Presentations will take place on *Monday 16* and *Wednesday 18 March* (right after midterm break).
 The schedule will be set shortly.
 The presentation must meet the following requirements:
 
