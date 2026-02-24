@@ -8,16 +8,17 @@ Navy_order: 10
 
 # Guidelines for midterm presentation
 
+## Schedule
 Presentations will take place on *Monday 16* and *Wednesday 18 March* (right after midterm break).
-The schedule will be set shortly.
-The presentation must meet the following requirements:
+
+[**Click to sign up for a 10-minute slot**{: .label .label-red }](https://www.signupgenius.com/go/10C084AA4AE2DA1FB6-62550439-midterm)
 
 ## Choice of topic
 
 Most topics related to *mathematical aspects of AI* are admissible:
 - The topic should be an *extension* of concepts in the course;
   it should not be a syllabus topic (unless understood in a broader and deeper sense).
-- The mathematical content must be significant.
+- The mathematical content must be significant (challenging but not too advanced considering your standing as undergraduate or graduate student).
   Theoretical/foundational topics as well as applied topics (as in applied *math*) are acceptable.
 
 It is highly recommended (but not required) to discuss your choice of topic with the instructor.
