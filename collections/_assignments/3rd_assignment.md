@@ -1,0 +1,41 @@
+---
+title: 3rd Assignment
+ordinal: 3
+due_date: 2026-02-18
+---
+
+## Warm-up Task
+- (Re)read the [Written Work Guidelines]({{ site.baseurl }}{% link _refdocs/WrittenWorkGuidelines.md %}) and write a short paragraph reflecting on your progress as a technical writer.
+Be specific; show that you understand your areas of strength and weakness better than you did at the beginning of the semester.
+
+## Main Task I
+
+
+## Main Task II
+
+### Subtask A
+Let \\(\mathcal{N}\\) be the standard normal distribution \\(\tilde{\mathcal{N}} = \mathcal{N}\_{\mu,\sigma}\\) be the normal distribution with mean \\(\mu\\) and standard deviation \\(\sigma\\).
+Evaluate the (Kullback-Leibler) KL-divergence \\(D_\mathrm{KL}(\mathcal{N}\parallel\tilde{\mathcal{N}})\\) in closed form.
+
+*Hint:* Besides algebraic manipulations, all you should need are the values \\(\int_{-\infty}^{+\infty}\mathcal{N}(x)dx = 1\\), \\(\mathbb{E}(X) = \int_{-\infty}^{+\infty}x\mathcal{N}(x)dx = 0\\) and \\(\\mathbb{E}(X^2) = \int_{-\infty}^{+\infty}x^2\mathcal{N}(x)dx = 1\\).
+
+For the remaining subtasks, let \\(B_p\\) be the PDF of a Bernoulli random variable with parameter \\(0\le p\le 1\\), i.e., \\(B_p(1) = p\\), \\(B_p(0) = 1-p\\) (and \\(B_p(x) = 0\\) for \\(x\ne 0, 1\\)).
+
+Below, we assume \\(p,q\in[0,1]\\), i.e., the pair \\((p,q)\\) belongs to the unit square \\([0,1]\times[0,1] = [0,1]^2\\).
+
+### Subtask B
+Evaluate the KL divergence \\(D_{\mathrm{KL}}(B_p\parallel B_q)\\) in closed form (i.e., give a formula), and verify that \\(D_{\mathrm{KL}}(B_p\parallel B_{1-p}) = D_{\mathrm{KL}}(B_{1-p}\parallel B_p)\\).
+
+### Optional Subtask C
+Describe the regions of the unit square consisting of points \\((p,q)\\) where, respectively
+- \\(D_{\mathrm{KL}}(B_p\parallel B_{q}) < D_{\mathrm{KL}}(B_{q}\parallel B_p)\\);
+- \\(D_{\mathrm{KL}}(B_p\parallel B_{q}) = D_{\mathrm{KL}}(B_{q}\parallel B_p)\\);
+- \\(D_{\mathrm{KL}}(B_p\parallel B_{q}) > D_{\mathrm{KL}}(B_{q}\parallel B_p)\\).
+(It may be hard to prove this, but an answer found using numerical exploration/graphing is acceptable.)
+
+<!-- (Recall that Colab allows opening files directly from [Github URLs](https://colab.research.google.com/github/){:target="_blank"}.) -->
+
+<!-- Example: Use of colored labels. -->
+<!-- Feb 30 -->
+<!-- : **Lab**{: .label .label-purple } [Resizing Arrays](#) -->
+<!-- : **HW 2 due**{: .label .label-red } -->
