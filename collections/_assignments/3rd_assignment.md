@@ -9,7 +9,26 @@ due_date: 2026-02-18
 Be specific; show that you understand your areas of strength and weakness better than you did at the beginning of the semester.
 
 ## Task I
+Refer to the discussion of multivariate normal random variables (normally distributed random vectors) in §3.3, and also to the [Multivariate Normal Primer](https://peterroelants.github.io/posts/multivariate-normal-primer/) by [@peterroelants](https://peterroelants.github.io/).
+You may and should use other resources in completing this task; high-quality reference textbooks are encouraged.
 
+Consider an arbitrary n×n real matrix A.
+The n×n matrix \\(S = A^{\top} A\\) is real symmetric and positive semi-definite.
+(S is positive definite when its rank is exactly n.)
+Therefore, S is a valid covariance matrix for an n-multivariate normal distribution;
+in fact (apart from possible zero eigenvalues), the eigenvalues of S are the squares of the singular values of A, and the eigenvectors of S are the right-singular eigenvectors of A.
+
+Write at least one full page explaining the precise relationship between the SVD of A and the ellipsoidal level curves of the normal PDF with covariance matrix S.
+At the very least, your explanation should explain what are the exact directions and lengths of the (principal) axes of the ellipsoid with equation 
+\\[
+	\mathcal{N}(\mathbf{x}) 
+	= 
+	\exp\bigl(-Q(\mathbf{x})\bigr)/\sqrt{(2\pi)^n\det(S)}
+\\]
+where the positive semidefinite quadratic form \\(Q(\mathbf{x}) = (1/2)\mathbf{x}^\top S^{-1} \mathbf{x}\\).
+
+### Bonus subtask A
+What goes wrong if A —and therefore also S— is a singular matrix?
 
 ## Task II
 
