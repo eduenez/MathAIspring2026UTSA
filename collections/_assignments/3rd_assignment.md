@@ -1,7 +1,7 @@
 ---
 title: 3rd Assignment
 ordinal: 3
-due_date: 2026-02-18
+due_date: 2026-03-04
 ---
 
 ## Warm-up Task
