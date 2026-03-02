@@ -17,3 +17,11 @@ nav_order: 70
 ## Optimization
 - [Gradient descent visualizer](https://uclaacm.github.io/gradient-descent-visualiser/) (Interactive web app.)
 - [Gradient descent visualization](https://github.com/lilipads/gradient_descent_viz) (MacOS/Windows app.)
+  *Note:* The Github page includes some animated images, but the app needs to be installed on your computer to use interactively.
+  Do so at your own risk! 
+  (The app is distributed by an independent academic researcher/programmer, not by a software company.)
+
+## Derivatives and gradients
+- [CalcPlot3D](https://c3d.libretexts.org/CalcPlot3D/)
+- [Parametric Curves](https://www.calculators-math.com/graphers/parametric-curve/)
+<!-- - [Math3d.org](https://www.math3d.org/) -->
