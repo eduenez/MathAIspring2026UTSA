@@ -25,3 +25,4 @@ nav_order: 70
 - [CalcPlot3D](https://c3d.libretexts.org/CalcPlot3D/)
 - [Parametric Curves](https://www.calculators-math.com/graphers/parametric-curve/)
 <!-- - [Math3d.org](https://www.math3d.org/) -->
+- Short/fun [AI-generated (Gemini) video illustrating gradient flow on a surface.]({{ site.baseurl }}{% link /assets/images/Visualizing_Multivariable_Calculus_Concepts.mp4 %})
