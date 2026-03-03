@@ -22,8 +22,13 @@ nav_order: 70
   Do so at your own risk! 
   (The app is distributed by an independent academic researcher/programmer, not by a software company.)
 
+## Regions, Surfaces and Curves
+- [CalcPlot3D:](https://c3d.libretexts.org/CalcPlot3D/index.html){:target="_blank"} A web app to plot curves, surfaces and regions in 3D-space described in various representations (explicit, implicit, parametric, inequalities, etc.). 
+- [Parametric Curve Grapher](https://www.calculators-math.com/graphers/parametric-curve/){:target="_blank"}
+<!-- - [Math3d.org](https://www.math3d.org/) -->
+
+
 ## Derivatives and gradients
-- [CalcPlot3D](https://c3d.libretexts.org/CalcPlot3D/index.html){:target="_blank"}
-- [Parametric Curves](https://www.calculators-math.com/graphers/parametric-curve/){:target="_blank"}
-<!-- - [Math3d.org](https://www.math3d.org/){:target="_blank"} -->
+- Web applet: [Gradient and directional derivative on a mountain](https://mathinsight.org/applet/gradient_directional_derivative_mountain){:target="_blank"} hosted at [MathInsights.org](https://mathinsight.org/){:target="_blank"}. 
+  (Students are encouraged to look at the [many other applets](https://mathinsight.org/applet/list){:target="_blank"} illustrating concepts —primarily in calculus.)
 - Short/fun [AI-generated (Gemini) video illustrating gradient flow on a surface.]({{ site.baseurl }}{% link /assets/images/Visualizing_Multivariable_Calculus_Concepts.mp4 %})
