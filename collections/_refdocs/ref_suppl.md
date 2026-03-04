@@ -21,6 +21,11 @@ nav_order: 70
   *Note:* The Github page includes some animated images, but the app needs to be installed on your computer to use interactively.
   Do so at your own risk! 
   (The app is distributed by an independent academic researcher/programmer, not by a software company.)
+  
+## Overfitting and underfitting (bias and variance)
+- [@GoogleDevelopers](https://developers.google.com/machine-learning/crash-course/overfitting/overfitting)
+- [@IBM](https://www.ibm.com/think/topics/overfitting-vs-underfitting)
+- [@GeeksForGeeks](https://www.geeksforgeeks.org/machine-learning/underfitting-and-overfitting-in-machine-learning/)
 
 ## Regions, Surfaces and Curves
 - [CalcPlot3D:](https://c3d.libretexts.org/CalcPlot3D/index.html){:target="_blank"} A web app to plot curves, surfaces and regions in 3D-space described in various representations (explicit, implicit, parametric, inequalities, etc.). 
