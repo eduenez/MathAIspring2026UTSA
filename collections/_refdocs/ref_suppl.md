@@ -36,4 +36,4 @@ nav_order: 70
 ## Derivatives and gradients
 - Web applet: [Gradient and directional derivative on a mountain](https://mathinsight.org/applet/gradient_directional_derivative_mountain){:target="_blank"} hosted at [MathInsights.org](https://mathinsight.org/){:target="_blank"}. 
   (Students are encouraged to look at the [many other applets](https://mathinsight.org/applet/list){:target="_blank"} illustrating concepts —primarily in calculus.)
-- Short/fun [AI-generated (Gemini) video illustrating gradient flow on a surface.]({{ site.baseurl }}{% link /assets/images/Visualizing_Multivariable_Calculus_Concepts.mp4 %})
+- Just for fun! [AI-generated (Gemini) video illustrating gradient flow on a surface.]({{ site.baseurl }}{% link /assets/images/Visualizing_Multivariable_Calculus_Concepts.mp4 %})

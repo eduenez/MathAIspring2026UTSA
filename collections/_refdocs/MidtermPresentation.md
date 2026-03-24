@@ -1,12 +1,19 @@
 ---
 layout: page
-title: Midterm presentation guide
+title: Midterm presentation
 description: >-
     Guidelines for midterm in-class presentations
 Navy_order: 10
 ---
 
-# Guidelines for midterm presentation
+# Midterm presentations (updated with handout weblinks)
+
+- [Olivia Aubone](https://drive.google.com/drive/folders/1eMaCEj8LNfcaBopZKProPFVjTPwgsS0g)
+- [Sofía Carranza](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2IvYy9jNGJjNWQzNGVkM2Q2MTk1L0lRQ01lNGMzOHd2VFNJVFJlN1l4WXBKcEFTWXhXR0NFZmJpTTh5TFhyT21IcDJ3&cid=C4BC5D34ED3D6195&id=C4BC5D34ED3D6195%21s37877b8c0bf348d384d17bb631629269&parId=C4BC5D34ED3D6195%21s1ea4dcc88abf4d6dadd163f57dbfa7c8&o=OneUp)
+- [Kimberly Roe](https://colab.research.google.com/drive/16FpTmCsgRZy2ntqD4Qs3Yl1293lM2MhN?usp=sharing)
+- [Thuc Tran](https://drive.google.com/drive/folders/1UPml3L_JV2vUyuZKhEoFVeYruEusK2Fr?usp=drive_link)
+- [Gabriella Valdez (Neural Autoregressive Distribution Estimator  NADE](https://github.com/EugenHotaj/pytorch-generative/blob/master/pytorch_generative/models/autoregressive/nade.py)
+- [Diego Zuñiga](https://colab.research.google.com/drive/1y9DNib4LkF4bs_nFfRkrWuptJL5AcPuE?usp=sharing)
 
 ## Schedule
 Presentations will take place on *Monday 16* and *Wednesday 18 March* (right after midterm break).
@@ -50,7 +57,7 @@ Your presentation must be accompanied by a handout (1 to 2 pages in length), mea
 Ideally, the handout will contain some figure(s) to accompany your presentation (particularly if you give a mostly- or purely-blackboard presentation).
 
 Be creative!
-As an example (not a requirement!), your handout may include a QR code to a file shared on you Google drive (or Dropbox, or OneDrive…) containing the handout itself in electronic form, or a document or webpage where you put materials (e.g., links to videos presented, to web references, to a shared Colab, etc.)
+As an example (not a requirement!), your handout may include a QR code to a file shared in you Google drive (or Dropbox, or OneDrive…) containing the handout itself in electronic form, or a document or webpage where you put materials (e.g., links to videos presented, to web references, to a shared Colab, etc.)
 
 ## Grading
  - [10%] Choice of topic (interesting, relevant, of suitable sophistication for an upper-level undergrad/grad student).
