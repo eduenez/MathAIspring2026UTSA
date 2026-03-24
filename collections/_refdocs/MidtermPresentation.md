@@ -18,7 +18,7 @@ Navy_order: 10
 ## Schedule
 Presentations will take place on *Monday 16* and *Wednesday 18 March* (right after midterm break).
 
-[**Click to sign up for a 10-minute slot**{: .label .label-red }](https://www.signupgenius.com/go/10C084AA4AE2DA1FB6-62550439-midterm)
+<!-- [**Click to sign up for a 10-minute slot**{: .label .label-red }](https://www.signupgenius.com/go/10C084AA4AE2DA1FB6-62550439-midterm) -->
 
 ## Choice of topic
 
