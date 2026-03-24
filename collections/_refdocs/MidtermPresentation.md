@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Midterm presentation
+title: Midterm handouts
 description: >-
     Guidelines for midterm in-class presentations
 Navy_order: 10
