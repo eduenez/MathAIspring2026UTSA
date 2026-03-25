@@ -10,7 +10,9 @@ Navy_order: 10
 
 - [Olivia Aubone](https://drive.google.com/drive/folders/1eMaCEj8LNfcaBopZKProPFVjTPwgsS0g)
 - [Sofía Carranza](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2IvYy9jNGJjNWQzNGVkM2Q2MTk1L0lRQ01lNGMzOHd2VFNJVFJlN1l4WXBKcEFTWXhXR0NFZmJpTTh5TFhyT21IcDJ3&cid=C4BC5D34ED3D6195&id=C4BC5D34ED3D6195%21s37877b8c0bf348d384d17bb631629269&parId=C4BC5D34ED3D6195%21s1ea4dcc88abf4d6dadd163f57dbfa7c8&o=OneUp)
-- [Kimberly Roe](https://colab.research.google.com/drive/16FpTmCsgRZy2ntqD4Qs3Yl1293lM2MhN?usp=sharing)
+- Kimberly Roe
+  [Handout](https://drive.google.com/file/d/1SoEQbVhOBM1Q0zWY0oCqY_uGVgKaGBD3/view?usp=sharing).
+  [Colab Code](https://colab.research.google.com/drive/16FpTmCsgRZy2ntqD4Qs3Yl1293lM2MhN?usp=sharing)
 - [Thuc Tran](https://drive.google.com/drive/folders/1UPml3L_JV2vUyuZKhEoFVeYruEusK2Fr?usp=drive_link)
 - [Gabriella Valdez (Neural Autoregressive Distribution Estimator  NADE](https://github.com/EugenHotaj/pytorch-generative/blob/master/pytorch_generative/models/autoregressive/nade.py)
 - [Diego Zuñiga](https://colab.research.google.com/drive/1y9DNib4LkF4bs_nFfRkrWuptJL5AcPuE?usp=sharing)
