@@ -1,5 +1,5 @@
 ---
-title: 'Week #6: Mar 2–6'
+title: 'Week #7: Mar 2–6'
 ---
 
 3/2
