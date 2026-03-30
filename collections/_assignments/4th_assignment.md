@@ -11,7 +11,7 @@ due_date: 2026-04-08
 
 ## Task I
 
-[Python code to explore “Bias/Variance Tradeof” interactively](https://colab.research.google.com/drive/1xJaFrTksPVRA2ifxYFgMnKQOf6FlX32y?usp=drive_link)
+[Python code to explore “Bias/Variance Tradeoff” interactively](https://colab.research.google.com/drive/1xJaFrTksPVRA2ifxYFgMnKQOf6FlX32y?usp=drive_link)
 
 <!-- (Recall that Colab allows opening files directly from [Github URLs](https://colab.research.google.com/github/){:target="_blank"}.) -->
 
