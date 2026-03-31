@@ -8,7 +8,7 @@ from ipywidgets import interact, IntSlider, Button, VBox, Output
 # --- Configuration ---
 N_SAMPLES = 20
 NOISE_LEVEL = 0.4
-MAX_DEGREE = 25
+MAX_DEGREE = 20
 
 # --- Generate Data ---
 def generate_data(n_samples, noise):
