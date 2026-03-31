@@ -1,0 +1,10 @@
+numpy
+matplotlib
+scikit-learn
+ipywidgets
+scipy
+jax
+keras
+keras-cv
+keras-hub
+jupyter
