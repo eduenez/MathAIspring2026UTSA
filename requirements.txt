@@ -3,8 +3,9 @@ matplotlib
 scikit-learn
 ipywidgets
 scipy
-jax
-jax-metal   # Apple Silicon GPU backend (optional; safe to omit on non-Mac systems)
+jax==0.4.38
+jaxlib==0.4.38
+jax-metal==0.1.1   # Apple Silicon GPU backend (optional; safe to omit on non-Mac systems)
 keras
 keras-cv
 keras-hub
