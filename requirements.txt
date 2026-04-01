@@ -4,6 +4,7 @@ scikit-learn
 ipywidgets
 scipy
 jax
+jax-metal   # Apple Silicon GPU backend (optional; safe to omit on non-Mac systems)
 keras
 keras-cv
 keras-hub
