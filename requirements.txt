@@ -8,3 +8,4 @@ keras
 keras-cv
 keras-hub
 jupyter
+mystmd
