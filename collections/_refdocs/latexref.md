@@ -9,8 +9,8 @@ nav_order: 100
 
 # Mathematical Typesetting Resources
 
- - [Modern LaTeX template for homework assignments]({{ site.baseurl }}{% link code/MathAI_HW_Template_Modern.tex %})
-   [![Open in CoCalc](https://cocalc.com/static/badge.svg)](https://cocalc.com/projects/github/eduenez/MathAIspring2026UTSA/blob/main/code/MathAI_HW_Template_Modern.tex)
+ <!-- - [Modern LaTeX template for homework assignments]({{ site.baseurl }}{% link code/MathAI_HW_Template_Modern.tex %}) -->
+ <!--   [![Open in CoCalc](https://cocalc.com/static/badge.svg)](https://cocalc.com/projects/github/eduenez/MathAIspring2026UTSA/blob/main/code/MathAI_HW_Template_Modern.tex) -->
  - [Standard LaTeX template for homework assignments]({{ site.baseurl }}{% link code/MathAI_HW_template.tex %})
    [![Open in CoCalc](https://cocalc.com/static/badge.svg)](https://cocalc.com/projects/github/eduenez/MathAIspring2026UTSA/blob/main/code/MathAI_HW_template.tex)
    - To compile the mock template without errors, download also the [figure (PNG file)]({{ site.baseurl }}{% link code/loss-curve.png %}).
