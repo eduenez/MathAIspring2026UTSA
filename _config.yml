@@ -19,7 +19,19 @@ description: A special introductory course to the theory of AI (UTSA, Spring 202
 author: Eduardo Dueñez
 baseurl: '/MathAIspring2026UTSA' # the subpath of your site, e.g. /blog
 url: 'https://eduenez.github.io' # the base hostname & protocol for your site, e.g. http://example.com
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - vendor
+  - .venv
+  - requirements.txt
+  - node_modules
+  - .jekyll-cache
+  - .bundle
+  - \#*
+  - \#*.*
 
 enable_math: true
 math:
@@ -55,10 +67,6 @@ just_the_docs:
   collections:
     refdocs:
       name: Reference documents
-
-exclude:
-  - \#*
-  - \#*.*
 
 # Default layouts for each collection type
 defaults:
