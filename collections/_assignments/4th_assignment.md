@@ -23,7 +23,7 @@ the prompt should be specific, thoughtful and well posed.
 (A very simple prompt such as “make a figure related to problem #7” will result in a very generic image that will not receive a good grade.)
 
 ## Subtask I
-Open the [Bias-Variance Tradeoff Lesson](https://eduenez.github.io/MathAIspring2026UTSA/code/capacity_U_graph.ipynb) in Colab.
+Open the [Bias-Variance Tradeoff Lesson](https://colab.research.google.com/github/eduenez/MathAIspring2026UTSA/blob/main/code/capacity_U_graph.ipynb) in Colab.
 Follow the lesson along.
 Choose and solve some of the exercises at the end (in Section §9).
 
@@ -31,11 +31,11 @@ Choose and solve some of the exercises at the end (in Section §9).
 (Our old friend Keras is also used in the lesson.)
 
 ## Subtask II
-Do the same for the lesson on [Stochastic Gradient Descent](https://eduenez.github.io/MathAIspring2026UTSA/code/sgd_interactive_lesson.ipynb).
+Do the same for the lesson on [Stochastic Gradient Descent](https://colab.research.google.com/github/eduenez/MathAIspring2026UTSA/blob/main/code/sgd_interactive_lesson.ipynb).
 Follow the lesson along and solve some exercises of your choice.
 
 ## Optional Subtask III
-If you want to start working on material for the next assignment, here is a link to the [overview of deep network architectures](https://eduenez.github.io/MathAIspring2026UTSA/code/dnn_architectures_overview.ipynb).
+If you want to start working on material for the next assignment, here is a link to the [overview of deep network architectures](https://colab.research.google.com/github/eduenez/MathAIspring2026UTSA/code/dnn_architectures_overview.ipynb).
 However, do *not* turn in any problems from this material.
 
 <!-- (Recall that Colab allows opening files directly from [Github URLs](https://colab.research.google.com/github/){:target="_blank"}.) -->
