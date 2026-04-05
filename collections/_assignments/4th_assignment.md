@@ -14,11 +14,12 @@ Your assignment is to solve some of the exercises and problems in the interactiv
 You do *not* need to solve and turn in all the problems and exercises —that is a little too much to ask!
 Instead, this is a ”choose your own adventure” assignment;
 you are expected to turn in a minimum of 3 pages. 
-Make sure it is typeset in LaTeX at 12pt, single-spaced, 1 in. margins (you may simply use the provided [LaTeX Homework Template](https://github.com/eduenez/MathAIspring2026UTSA/tree/main/code/MathAI_HW_template.tex).
+Make sure it is typeset in LaTeX at 12pt, single-spaced, 1 in. margins (you may simply use the provided [LaTeX Homework Template](https://github.com/eduenez/MathAIspring2026UTSA/code/MathAI_HW_template.tex).
 (To compile the mock template without errors, you need also the [figure (PNG file)]({{ site.baseurl }}{% link code/loss-curve.png %}).)
 
 Your submission should include at least two figures, one related to the material of each lesson.
-You are allowed to use AI to generate the figures as long as you provide (i.e., include in the document) the prompt/query used to generate the image, and provided it is specific, thoughtful and well posed.
+You are allowed to use AI to generate the figures as long as you provide (i.e., include in the document) the prompt/query used to generate the image; 
+the prompt should be specific, thoughtful and well posed.
 (A very simple prompt such as “make a figure related to problem #7” will result in a very generic image that will not receive a good grade.)
 
 ## Subtask I
