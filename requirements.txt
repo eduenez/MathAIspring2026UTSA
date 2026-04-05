@@ -3,9 +3,22 @@ matplotlib
 scikit-learn
 ipywidgets
 scipy
-jax==0.4.38
-jaxlib==0.4.38
-jax-metal==0.1.1   # Apple Silicon GPU backend (optional; safe to omit on non-Mac systems)
+
+# JAX — install the variant that matches your hardware (pick exactly one):
+#
+#   CPU only (any platform, safest default):
+#       pip install jax
+#
+#   NVIDIA GPU on Linux:
+#       pip install "jax[cuda12]"
+#
+#   Apple Silicon (macOS) — CPU backend with optional Metal acceleration;
+#   note that jax-metal lacks some ops (e.g. MultiHeadAttention uses CPU fallback):
+#       pip install jax jax-metal
+#
+# Google Colab: JAX is pre-installed; the notebook setup cell auto-configures it.
+jax
+
 keras
 keras-cv
 keras-hub
