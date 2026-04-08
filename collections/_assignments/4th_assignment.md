@@ -13,7 +13,7 @@ due_date: 2026-04-15
 Your assignment is to solve some of the exercises and problems in the interactive lessons on the Bias-Variance Tradeoff and Stochastic Gradient Descent.
 You do *not* need to solve and turn in all the problems and exercises —that is a little too much to ask!
 Instead, this is a ”choose your own adventure” assignment.
-Make sure it is typeset in LaTeX at 12pt, single-spaced, 1 in. margins (you may simply use the provided [LaTeX Homework Template](https://github.com/eduenez/MathAIspring2026UTSA/code/MathAI_HW_template.tex).
+Make sure it is typeset in LaTeX at 12pt, single-spaced, 1 in. margins (you may simply use the provided [LaTeX Homework Template](https://github.com/eduenez/MathAIspring2026UTSA/blob/main/code/MathAI_HW_template.tex).
 (To compile the mock template without errors, you need also the [figure (PNG file)]({{ site.baseurl }}{% link code/loss-curve.png %}).)
 
 Your submission should be at least 4 pages long, and include at least two figures, one related to the material of each lesson.
@@ -34,7 +34,7 @@ Do the same for the lesson on [Stochastic Gradient Descent](https://colab.resear
 Follow the lesson along and solve some exercises of your choice.
 
 ## Optional Subtask III
-If you want to start working on material for the next assignment, here is a link to the [overview of deep network architectures](https://colab.research.google.com/github/eduenez/MathAIspring2026UTSA/code/dnn_architectures_overview.ipynb).
+If you want to start working on material for the next assignment, here is a link to the [overview of deep network architectures](https://colab.research.google.com/github/eduenez/MathAIspring2026UTSA/blob/main/code/dnn_architectures_overview.ipynb).
 However, do *not* turn in any problems from this material.
 
 <!-- (Recall that Colab allows opening files directly from [Github URLs](https://colab.research.google.com/github/){:target="_blank"}.) -->
