@@ -9,6 +9,13 @@ nav_order: 0
 # Final presentation and final paper
 {:.no_toc}
 
+## Critical actions to complet ASAP
+
+[**Click to sign up for a 10-minute slot**{: .label .label-red }](https://www.signupgenius.com/go/10C084AA4AE2DA1FB6-63503140-final)
+
+Send me your Google e-mail address to grant you access to the Digital Assets (DA) container by following this link to the
+[**Canvas “survey/quiz”**{: .label .label-red }](https://utsa.instructure.com/courses/81120/quizzes/384205)
+
 ## Table of Contents
 {: .no_toc .text-delta }
 
