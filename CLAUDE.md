@@ -43,7 +43,7 @@ Site runs at http://localhost:4000. Never edit files in `_site/` — it is auto-
 | `fwdpass_units.ipynb` | Feedforward networks: forward pass & activation functions | Sequel to `mnist_ff`; introduces units, ReLU/GeLU/softmax |
 | `backpropagation.ipynb` | Backpropagation algorithm | Requires `fwdpass_units`; chain rule, computational graphs, δ recurrence, gradient check |
 
-**Notebook generation script**: `/tmp/gen_ff_notebooks.py` was used to generate `fwdpass_units.ipynb` and `backpropagation.ipynb`. Keep it updated if the notebooks are regenerated from scratch.
+**Notebook generation script**: `code/tmp/gen_ff_notebooks.py` was used to generate `fwdpass_units.ipynb` and `backpropagation.ipynb`. Keep it updated if the notebooks are regenerated from scratch.
 
 **Python dependencies**: `requirements.txt` (numpy, matplotlib, scikit-learn, scipy, jax, keras, jupyter, ipywidgets)
 
