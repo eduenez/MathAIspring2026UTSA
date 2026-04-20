@@ -3,7 +3,7 @@ title: 'Week #12: April 13–17'
 ---
 
 4/13
-: [Section 5.7](https://www.deeplearningbook.org/contents/ml.html){:target="_blank"}: Machine Learning Basics:  Support-Vector Machines. 
+: [Section 5.7](https://www.deeplearningbook.org/contents/ml.html){:target="_blank"}: Machine Learning Basics:  Support-Vector Machines.
   ([Colab lesson.](https://colab.research.google.com/github/eduenez/MathAIspring2026UTSA/blob/main/code/svm_lesson.ipynb))
   Overview of Deep Network architectures. ([Colab lesson.](https://colab.research.google.com/github/eduenez/MathAIspring2026UTSA/blob/main/code/dnn_architectures_overview.ipynb))
 

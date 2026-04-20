@@ -15,6 +15,16 @@ bundle exec jekyll serve
 
 Site runs at http://localhost:4000. Never edit files in `_site/` — it is auto-generated.
 
+## Running Jupyter Notebooks Locally
+
+```sh
+source .venv/bin/activate      # activate the project virtualenv
+pip install -r requirements.txt # install dependencies (first time / after updates)
+jupyter notebook --notebook-dir=code
+```
+
+This opens the Jupyter dashboard scoped to the `code/` directory. Notebooks can also be run directly in VS Code with the Jupyter extension — select the `.venv` kernel when prompted.
+
 ## Architecture
 
 **Jekyll Collections** (under `collections/`):
