@@ -52,6 +52,9 @@ This opens the Jupyter dashboard scoped to the `code/` directory. Notebooks can 
 | `svm_lesson.ipynb` | SVMs (geometry → kernels) | Polished lesson; heaviest math; reference for house style |
 | `fwdpass_units.ipynb` | Feedforward networks: forward pass & activation functions | Sequel to `mnist_ff`; introduces units, ReLU/GeLU/softmax |
 | `backpropagation.ipynb` | Backpropagation algorithm | Requires `fwdpass_units`; chain rule, computational graphs, δ recurrence, gradient check |
+| `dnn_architectures_overview.ipynb` | DNN architecture families (MLP, CNN, RNN, Transformer, AE) | Comparative survey with toy examples |
+| `generative_models.ipynb` | Generative models (PCA → VAE → LLMs) | ELBO, reparameterization trick, autoregressive generation, temperature |
+| `memory_history.ipynb` | Memory in sequence models (LSTM → KV cache → Mamba) | Gates, KV cache, SSM recurrence–convolution duality |
 
 **Notebook generation script**: `code/tmp/gen_ff_notebooks.py` was used to generate `fwdpass_units.ipynb` and `backpropagation.ipynb`. Keep it updated if the notebooks are regenerated from scratch.
 
