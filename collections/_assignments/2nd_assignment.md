@@ -9,7 +9,7 @@ due_date: 2026-02-18
 
 ## Main Task I
 
-Log on to [Colab](https://colab.research.google.com/){:target="_blank"} and open the [Jupyter (iPython) file `numpy-tutorial-svd.ipynb`](https://colab.research.google.com/drive/1A5U2jgdtyVQZKHIIpqHub6X-aUqD-7mB?usp=sharing).
+Log on to [Colab](https://colab.research.google.com/){:target="_blank"} and open the [Jupyter (iPython) file `numpy-tutorial-svd.ipynb`](https://colab.research.google.com/drive/1A5U2jgdtyVQZKHIIpqHub6X-aUqD-7mB?usp=sharing){:target=”_blank”}.
 
 Make sure to save it to your own Google Drive!
 (The link above is to a read-only version of my personal copy of the file).

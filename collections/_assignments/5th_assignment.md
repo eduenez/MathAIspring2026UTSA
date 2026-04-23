@@ -20,10 +20,10 @@ Instead, this is a "choose your own adventure" assignment: Choose exercises that
 Format requirements are the same as for the 4th Assignment:
 typeset in LaTeX at 12pt, single-spaced, 1 in. margins, using the provided [LaTeX Homework Template](https://github.com/eduenez/MathAIspring2026UTSA/blob/main/code/MathAI_HW_template.tex).
 
-Your submission should be **at least 4 pages** (excluding the warm-up) and include **at least two figures**, drawn from at least two different lessons below.
+Your submission should be **at least 4 pages** (excluding the warm-up) and include **at least two figures**, drawn from at least three different lessons below.
 You are allowed to use AI to generate figures as long as you include the exact prompt used; a vague prompt such as "make a figure about backpropagation" will not receive full credit.
 
-**You must complete exercises from at least *two* among the subtasks I–IV below.**
+**You must complete (some) exercises from at least *three different* subtasks I–IV below.**
 <!-- (Subtask V is optional/extra credit but recommended.) -->
 
 ## Subtask I: Units, Activations, and the Forward Pass

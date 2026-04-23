@@ -12,9 +12,8 @@ due_date: 2026-02-04
 
 ### Task I
 
-Log on to [Colab](https://colab.research.google.com/){:target=”_blank”} and open the Jupyter (iPython) file `intro_feedforward_mnist.ipynb` which creates and trains a simple feedforward-network to learn to recognize handwritten digits in the MNIST “database”—which is more of a *dataset* than a *database* as such.
-(The file is hosted at Github [https://github.com/eduenez/MathAIspring2026UTSA/code/intro_feedforward_mnist.ipynb]([https://eduenez.github.io/MathAIspring2026UTSA/code/intro_feedforward_mnist.ipynb]){:target=”_blank”}.)
-It is not even necessary to download it! Colab allows opening files directly from [Github URLs](https://colab.research.google.com/github/){:target="_blank"}.)\\
+Open the Jupyter (iPython) notebook [`intro_feedforward_mnist.ipynb`](https://colab.research.google.com/github/eduenez/MathAIspring2026UTSA/blob/main/code/intro_feedforward_mnist.ipynb){:target=”_blank”} (link opens the notebook in [Google Colab](https://colab.research.google.com){:target=”_blank”}) which creates and trains a simple feedforward-network to learn to recognize handwritten digits in the MNIST “database”—which is more of a *dataset* than a *database* as such.
+
 Make sure to look at the [MNIST Wikipedia page](https://en.wikipedia.org/wiki/MNIST_database){:target="_blank"} and Figure 1.9 in [Deep Learning Ch. 1](https://www.deeplearningbook.org/contents/intro.html){:target="_blank"}.
 - Make sure to *Save your own personal copy* of the file (e.g., to your Google Drive).
   - You *cannot* save it back to Github (not authorized).
