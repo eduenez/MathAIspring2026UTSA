@@ -55,10 +55,17 @@ This opens the Jupyter dashboard scoped to the `code/` directory. Notebooks can 
 | `dnn_architectures_overview.ipynb` | DNN architecture families (MLP, CNN, RNN, Transformer, AE) | Comparative survey with toy examples |
 | `generative_models.ipynb` | Generative models (PCA → VAE → LLMs) | ELBO, reparameterization trick, autoregressive generation, temperature |
 | `memory_history.ipynb` | Memory in sequence models (LSTM → KV cache → Mamba) | Gates, KV cache, SSM recurrence–convolution duality |
+| `diffusion_models.ipynb` | Score-based generative models and DDPM | Forward/reverse diffusion, score functions, Langevin sampling, denoising = score matching |
+| `reinforcement_learning.ipynb` | RL: MDPs, Bellman, policy gradients, RLHF | Gridworld, value iteration, REINFORCE, Bradley–Terry reward model, KL-penalised objective |
+| `geometric_deep_learning.ipynb` | Symmetry, groups, GNNs, WL test | Equivariance, group actions, message passing, GCN, WL expressivity, E(3) for 3D science |
 
-**Notebook generation script**: `code/tmp/gen_ff_notebooks.py` was used to generate `fwdpass_units.ipynb` and `backpropagation.ipynb`. Keep it updated if the notebooks are regenerated from scratch.
+**Notebook generation scripts** (in `code/tmp/`):
+- `gen_ff_notebooks.py` → generated `fwdpass_units.ipynb` and `backpropagation.ipynb`
+- `gen_advanced_notebooks.py` → generated `diffusion_models.ipynb`, `reinforcement_learning.ipynb`, `geometric_deep_learning.ipynb`
 
-**Python dependencies**: `requirements.txt` (numpy, matplotlib, scikit-learn, scipy, jax, keras, jupyter, ipywidgets)
+Keep these updated if notebooks are regenerated from scratch.
+
+**Python dependencies**: `requirements.txt` (numpy, matplotlib, scikit-learn, scipy, jax, keras, jupyter, ipywidgets). `geometric_deep_learning.ipynb` additionally requires `networkx` (auto-installed on first run) and `scipy.spatial.transform` (included in scipy).
 
 ## Content Conventions
 
