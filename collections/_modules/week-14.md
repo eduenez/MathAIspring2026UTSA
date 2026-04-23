@@ -13,7 +13,7 @@ title: 'Week #14: April 27–May 1'
 
   Fichtl et al. [*The End of Transformers? On Challenging Attention and the Rise of Sub-Quadratic Architectures*.](https://arxiv.org/abs/2510.05364) 
 
-  [Colab lesson.](https://colab.research.google.com/github/eduenez/MathAIspring2026UTSA/blob/main/code/memory_history.ipynb)
+  [Colab lesson.](https://colab.research.google.com/github/eduenez/MathAIspring2026UTSA/blob/main/code/sequence_memory_models.ipynb)
 
 <!-- Example: Use of colored labels. -->
 <!-- Feb 30 -->

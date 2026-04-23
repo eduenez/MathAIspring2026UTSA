@@ -44,23 +44,23 @@ This opens the Jupyter dashboard scoped to the `code/` directory. Notebooks can 
 
 | File | Topic | Notes |
 |------|-------|-------|
-| `mnist_ff.ipynb` | MNIST feedforward network (Keras/JAX) | First-week bird's-eye overview; less polished than later notebooks |
+| `intro_feedforward_mnist.ipynb` | MNIST feedforward network (Keras/JAX) | First-week bird's-eye overview; less polished than later notebooks |
 | `numpy_tutorial_svd.ipynb` | NumPy & SVD tutorial | |
 | `bias_variance_regression.py` | Bias-variance interactive tool | ipywidgets slider + button |
-| `capacity_U_graph.ipynb` | Capacity / U-curve visualization | |
-| `sgd_interactive_lesson.ipynb` | SGD, momentum, Adam | Polished lesson; heavy widget use; reference for house style |
+| `bias_variance_double_descent.ipynb` | Capacity / U-curve / double descent visualization | |
+| `optimization_sgd.ipynb` | SGD, momentum, Adam | Polished lesson; heavy widget use; reference for house style |
 | `svm_lesson.ipynb` | SVMs (geometry → kernels) | Polished lesson; heaviest math; reference for house style |
-| `fwdpass_units.ipynb` | Feedforward networks: forward pass & activation functions | Sequel to `mnist_ff`; introduces units, ReLU/GeLU/softmax |
+| `fwdpass_units.ipynb` | Feedforward networks: forward pass & activation functions | Sequel to `intro_feedforward_mnist`; introduces units, ReLU/GeLU/softmax |
 | `backpropagation.ipynb` | Backpropagation algorithm | Requires `fwdpass_units`; chain rule, computational graphs, δ recurrence, gradient check |
 | `dnn_architectures_overview.ipynb` | DNN architecture families (MLP, CNN, RNN, Transformer, AE) | Comparative survey with toy examples |
 | `generative_models.ipynb` | Generative models (PCA → VAE → LLMs) | ELBO, reparameterization trick, autoregressive generation, temperature |
-| `memory_history.ipynb` | Memory in sequence models (LSTM → KV cache → Mamba) | Gates, KV cache, SSM recurrence–convolution duality |
+| `sequence_memory_models.ipynb` | Memory in sequence models (LSTM → KV cache → Mamba) | Gates, KV cache, SSM recurrence–convolution duality |
 | `diffusion_models.ipynb` | Score-based generative models and DDPM | Forward/reverse diffusion, score functions, Langevin sampling, denoising = score matching |
 | `reinforcement_learning.ipynb` | RL: MDPs, Bellman, policy gradients, RLHF | Gridworld, value iteration, REINFORCE, Bradley–Terry reward model, KL-penalised objective |
 | `geometric_deep_learning.ipynb` | Symmetry, groups, GNNs, WL test | Equivariance, group actions, message passing, GCN, WL expressivity, E(3) for 3D science |
 
 **Notebook generation scripts** (in `code/tmp/`):
-- `gen_ff_notebooks.py` → generated `fwdpass_units.ipynb` and `backpropagation.ipynb`
+- `gen_ff_notebooks.py` → generated `fwdpass_units.ipynb` and `backpropagation.ipynb`; references `intro_feedforward_mnist.ipynb` and `optimization_sgd.ipynb` in cell content
 - `gen_advanced_notebooks.py` → generated `diffusion_models.ipynb`, `reinforcement_learning.ipynb`, `geometric_deep_learning.ipynb`
 
 Keep these updated if notebooks are regenerated from scratch.
@@ -77,7 +77,7 @@ Keep these updated if notebooks are regenerated from scratch.
 
 ## Notebook House Style
 
-`svm_lesson.ipynb` and `sgd_interactive_lesson.ipynb` are the canonical style references. Key conventions:
+`svm_lesson.ipynb` and `optimization_sgd.ipynb` are the canonical style references. Key conventions:
 
 - **Header**: H1 title, H2 subtitle, course line (`**MAT 4953/6973 — Mathematical Foundations of AI** (Spring 2026, UTSA)`), Colab badge, `---`
 - **Sections**: numbered Parts at H1, numbered subsections at H2 (e.g., `## 2.1`)

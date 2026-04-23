@@ -22,7 +22,7 @@ the prompt should be specific, thoughtful and well posed.
 (A very simple prompt such as “make a figure related to problem #7” will result in a very generic image that will not receive a good grade.)
 
 ## Subtask I
-Open the [Bias-Variance Tradeoff Lesson](https://colab.research.google.com/github/eduenez/MathAIspring2026UTSA/blob/main/code/capacity_U_graph.ipynb) in Colab.
+Open the [Bias-Variance Tradeoff Lesson](https://colab.research.google.com/github/eduenez/MathAIspring2026UTSA/blob/main/code/bias_variance_double_descent.ipynb) in Colab.
 Follow the lesson along.
 Choose and solve some of the exercises at the end (in Section §9).
 
@@ -30,7 +30,7 @@ Choose and solve some of the exercises at the end (in Section §9).
 (Our old friend Keras is still used in the lesson, too.)
 
 ## Subtask II
-Do the same for the lesson on [Stochastic Gradient Descent](https://colab.research.google.com/github/eduenez/MathAIspring2026UTSA/blob/main/code/sgd_interactive_lesson.ipynb).
+Do the same for the lesson on [Stochastic Gradient Descent](https://colab.research.google.com/github/eduenez/MathAIspring2026UTSA/blob/main/code/optimization_sgd.ipynb).
 Follow the lesson along and solve some exercises of your choice.
 
 ## Optional Subtask III

@@ -12,8 +12,8 @@ due_date: 2026-02-04
 
 ### Task I
 
-Log on to [Colab](https://colab.research.google.com/){:target="_blank"} and open the Jupyter (iPython) file `mnist_ff.ipynb` which creates and trains a simple feedforward-network to learn to recognize handwritten digits in the MNIST “database”—which is more of a *dataset* than a *database* as such.
-(The file is hosted at Github [https://github.com/eduenez/MathAIspring2026UTSA/code/mnist_ff.ipynb]([https://eduenez.github.io/MathAIspring2026UTSA/code/mnist_ff.ipynb]){:target="_blank"}.)
+Log on to [Colab](https://colab.research.google.com/){:target=”_blank”} and open the Jupyter (iPython) file `intro_feedforward_mnist.ipynb` which creates and trains a simple feedforward-network to learn to recognize handwritten digits in the MNIST “database”—which is more of a *dataset* than a *database* as such.
+(The file is hosted at Github [https://github.com/eduenez/MathAIspring2026UTSA/code/intro_feedforward_mnist.ipynb]([https://eduenez.github.io/MathAIspring2026UTSA/code/intro_feedforward_mnist.ipynb]){:target=”_blank”}.)
 It is not even necessary to download it! Colab allows opening files directly from [Github URLs](https://colab.research.google.com/github/){:target="_blank"}.)\\
 Make sure to look at the [MNIST Wikipedia page](https://en.wikipedia.org/wiki/MNIST_database){:target="_blank"} and Figure 1.9 in [Deep Learning Ch. 1](https://www.deeplearningbook.org/contents/intro.html){:target="_blank"}.
 - Make sure to *Save your own personal copy* of the file (e.g., to your Google Drive).
@@ -27,7 +27,7 @@ Play around assigning different values to the parameters `dim_hl_1`, `dim_hl_2` 
 Make a table and provide a human-readable analysis of your findings.
 
 For extra credit +20%, also compare the 2-hidden layer feedforward NN to NNs with 1 or 3 hidden layers.
-(You will need to make minor edits to the code in `mnist_ff.ipynb`.)
+(You will need to make minor edits to the code in `intro_feedforward_mnist.ipynb`.)
 
 #### Sub-Task 2
 There are probably at least a few new and unfamiliar concepts present in or implied by the code.
@@ -44,7 +44,7 @@ Examples include (but are not limited to):
 - What is the difference between training, validation and test datasets?
 - What is the difference between a feedforward network and other kinds of neural networks?
 - What is root mean-square propagation? How does it compare to other optimization methods?
-- What part of the code in `mnist_ff.ipynb` do I find most mysterious?
+- What part of the code in `intro_feedforward_mnist.ipynb` do I find most mysterious?
   Can I try to better understand and explain what it’s doing?
 
 

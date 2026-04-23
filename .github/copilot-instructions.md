@@ -10,7 +10,7 @@ This repository powers the "MAT 4953/MAT 6973 Mathematical Foundations of AI" co
 - **Templates & Includes**: Page layouts in `_layouts/` (e.g., `module.html`, `schedule.html`). Shared HTML snippets in `_includes/` (e.g., `nav_footer_custom.html`).
 - **Styling**: Custom SCSS in `_sass/custom/`, imported via `custom.scss`.
 - **Assets**: Images and custom JS/CSS in `assets/`.
-- **Code & Notebooks**: Example code and Jupyter notebooks (e.g., `mnist_ff.ipynb`) in `code/`.
+- **Code & Notebooks**: Example code and Jupyter notebooks (e.g., `intro_feedforward_mnist.ipynb`) in `code/`.
 
 ## Developer Workflows
 - **Local Build/Preview**:

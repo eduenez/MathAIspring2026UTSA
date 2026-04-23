@@ -43,9 +43,9 @@ C1.append(md(r"""# Feedforward Networks I: The Forward Pass and Activation Funct
 
 ---"""))
 
-C1.append(md(r"""> **Prerequisites:** Vectors and matrices (matrix–vector products, norms), basic calculus (derivatives, chain rule), Python/NumPy. Familiarity with [`mnist_ff.ipynb`](mnist_ff.ipynb) is assumed.
+C1.append(md(r"""> **Prerequisites:** Vectors and matrices (matrix–vector products, norms), basic calculus (derivatives, chain rule), Python/NumPy. Familiarity with [`intro_feedforward_mnist.ipynb`](intro_feedforward_mnist.ipynb) is assumed.
 
-In [`mnist_ff.ipynb`](mnist_ff.ipynb) we built a feedforward network and trained it on MNIST using Keras.
+In [`intro_feedforward_mnist.ipynb`](intro_feedforward_mnist.ipynb) we built a feedforward network and trained it on MNIST using Keras.
 We wrote `layers.Dense(64, activation="relu")` without stopping to ask:
 
 - What exactly *is* a unit (neuron)?
@@ -162,7 +162,7 @@ $$\mathbf{z}^{(l)} = W^{(l)}\,\mathbf{a}^{(l-1)} + \mathbf{b}^{(l)}, \qquad \mat
 The output is $\hat{\mathbf{y}} = \mathbf{a}^{(L)}$.
 The full computation is the composition $F^{(L)} \circ \cdots \circ F^{(1)}$ where each *layer map* is:
 $$F^{(l)}(\mathbf{a}) = \sigma^{(l)}\!\left(W^{(l)}\mathbf{a} + \mathbf{b}^{(l)}\right).$$
-This is exactly what `model.predict(x)` does in `mnist_ff.ipynb`.
+This is exactly what `model.predict(x)` does in `intro_feedforward_mnist.ipynb`.
 
 ## 2.2 Why nonlinearity is indispensable
 
@@ -231,7 +231,7 @@ For multi-class classification the output layer uses **softmax**, which turns a 
 $$\boxed{\hat{y}_k = \mathrm{softmax}(\mathbf{z}^{(L)})_k = \frac{e^{z_k^{(L)}}}{\displaystyle\sum_{j=1}^{K} e^{z_j^{(L)}}}, \qquad k = 1, \ldots, K.}$$
 
 The outputs satisfy $\hat{y}_k \ge 0$ and $\sum_k \hat{y}_k = 1$.
-In `mnist_ff.ipynb` the output layer had $K = 10$ (one per digit class); Keras's `SparseCategoricalCrossentropy(from_logits=True)` applies softmax internally, which is why the final `Dense(10)` layer had no explicit activation."""))
+In `intro_feedforward_mnist.ipynb` the output layer had $K = 10$ (one per digit class); Keras's `SparseCategoricalCrossentropy(from_logits=True)` applies softmax internally, which is why the final `Dense(10)` layer had no explicit activation."""))
 
 C1.append(code(r"""# Activation function definitions
 z = np.linspace(-4.5, 4.5, 500)
@@ -403,7 +403,7 @@ C1.append(md(r"""# Exercises
 >
 > **(a)** Derive a formula for the total number of trainable parameters (weights + biases) in a network with architecture $(n_0, n_1, \ldots, n_L)$.
 >
-> **(b)** Apply your formula to $(784, 64, 64, 10)$ and verify it matches the $55{,}050$ reported in `mnist_ff.ipynb`.
+> **(b)** Apply your formula to $(784, 64, 64, 10)$ and verify it matches the $55{,}050$ reported in `intro_feedforward_mnist.ipynb`.
 >
 > **(c)** If both hidden layers are widened to 128 units — architecture $(784, 128, 128, 10)$ — by what factor does the total parameter count increase?
 
@@ -1001,7 +1001,7 @@ C2.append(md(r"""## 5.2 Connection to SGD
 
 Once we have $\nabla_{W^{(l)}}\mathcal{L}$ and $\nabla_{\mathbf{b}^{(l)}}\mathcal{L}$, a gradient descent step is simply:
 $$W^{(l)} \;\longleftarrow\; W^{(l)} - \eta\,\nabla_{W^{(l)}}\mathcal{L}, \qquad \mathbf{b}^{(l)} \;\longleftarrow\; \mathbf{b}^{(l)} - \eta\,\nabla_{\mathbf{b}^{(l)}}\mathcal{L},$$
-where $\eta > 0$ is the learning rate. This is exactly the update used in [`sgd_interactive_lesson.ipynb`](sgd_interactive_lesson.ipynb).
+where $\eta > 0$ is the learning rate. This is exactly the update used in [`optimization_sgd.ipynb`](optimization_sgd.ipynb).
 
 In **mini-batch SGD**, the gradients above are averaged over a batch of $B$ examples, and the update is applied after each batch. Keras handles all of this internally; our NumPy implementation here exposes the machinery underneath.
 
