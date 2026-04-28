@@ -54,6 +54,7 @@ This opens the Jupyter dashboard scoped to the `code/` directory. Notebooks can 
 | `backpropagation.ipynb` | Backpropagation algorithm | Requires `fwdpass_units`; chain rule, computational graphs, δ recurrence, gradient check |
 | `dnn_architectures_overview.ipynb` | DNN architecture families (MLP, CNN, RNN, Transformer, AE) | Comparative survey with toy examples |
 | `generative_models.ipynb` | Generative models (PCA → VAE → LLMs) | ELBO, reparameterization trick, autoregressive generation, temperature |
+| `vae_mnist.ipynb` | VAE on MNIST — generating handwritten digits | Companion to `intro_feedforward_mnist`; BCE reconstruction loss, latent space visualization, 2-D manifold grid |
 | `sequence_memory_models.ipynb` | Memory in sequence models (LSTM → KV cache → Mamba) | Gates, KV cache, SSM recurrence–convolution duality |
 | `diffusion_models.ipynb` | Score-based generative models and DDPM | Forward/reverse diffusion, score functions, Langevin sampling, denoising = score matching |
 | `reinforcement_learning.ipynb` | RL: MDPs, Bellman, policy gradients, RLHF | Gridworld, value iteration, REINFORCE, Bradley–Terry reward model, KL-penalised objective |
