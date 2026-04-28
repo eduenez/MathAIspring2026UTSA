@@ -20,8 +20,8 @@ scipy
 jax
 
 keras
-keras-cv
-keras-hub
+# keras-cv
+# keras-hub
 
 # PyTorch — used as an alternative Keras backend (e.g. to access Apple Metal GPU on macOS).
 # MPS (Metal Performance Shaders) support is included in standard PyTorch builds for macOS.
