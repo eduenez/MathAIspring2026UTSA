@@ -15,7 +15,11 @@ I have written a [Guide to Typesetting Mathematics]({{ site.baseurl }}{% link _r
 
 Per the [syllabus]({{ site.baseurl }}{% link syllabus.md %}), it is *strictly forbidden to use any AI assistance* (including LLMs) in generating the content proper of any work submitted for a grade;
 however, *AI-assisted typesetting* (i.e., automatic aid in formatting or converting your authored content for LaTeX typesetting) is allowed.
-The best LLMs for this purpose (as of spring 2026) are [ChatGPT](https://chatgpt.com/){:target="_blank"} and [Gemini](https://gemini.google.com/app){:target="_blank"}.
+The best LLMs for this purpose (as of spring 2026) are:
+ - Anthropic’s [Claude](https://claude.ai), 
+ - Google’s [Gemini](https://gemini.google.com/app){:target="_blank"},
+ - OpenAI’s [ChatGPT](https://chatgpt.com/){:target="_blank"}, and
+ - Microsoft’s [Copilot](https://copilot.microsoft.com/), which is a service included under UTSA’s Office365 campus license.
 
 Written work not substantially following the guidelines will be **returned without grading**.
 
