@@ -21,6 +21,7 @@ baseurl: '/MathAIspring2026UTSA' # the subpath of your site, e.g. /blog
 url: 'https://eduenez.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 
 exclude:
+  - AGENTS.md
   - CLAUDE.md
   - GEMINI.md
   - Gemfile
